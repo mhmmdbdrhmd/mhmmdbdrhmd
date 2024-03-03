@@ -1,35 +1,34 @@
 # Hi there, I'm Mohammad Badri Ahmadi 👋
 
-I'm a dedicated Machine Learning Developer, API Integrator, and Web Scraping Expert, transitioning from a rich academic background in Biomedical Engineering to a full-time focus on crafting innovative software solutions. I'm passionate about leveraging machine learning and data to solve real-world problems, and I'm always on the lookout for new challenges. Outside of coding, I enjoy exploring the wonders of computer technology and its application to help humanity.
 
-## Skills and Expertise
+Welcome to my GitHub space! I am a passionate Machine Learning Developer, API Integrator, and Web Scraping Expert with a strong foundation in Biomedical Engineering. My journey from academia to the tech industry is fueled by a relentless curiosity and a desire to solve complex problems through innovation.
 
-- 🤖 **Machine Learning Development**: Proficient in building intelligent systems using sophisticated algorithms.
-- ☎️ **API Mastery**: Expert in integrating and customizing APIs for enhanced functionality.
-- ✂️ **Web Scraping & Data Automation**: Skilled in extracting data using advanced web scraping tools and techniques.
-- ⚙️ **Software Optimization**: Experienced in maximizing system performance through advanced optimization techniques.
-- ⭐ **Data Analysis & Visualization**: Capable of turning complex data into actionable insights with visual presentations.
-- ✉️ **Database Management**: Efficient in designing and managing robust database solutions.
+## 🚀 Skills and Expertise
+- **Machine Learning Development**: Designing intelligent systems to automate and enhance decision-making processes.
+- **API Mastery**: Integrating various services and systems seamlessly to create cohesive applications.
+- **Web Scraping & Data Automation**: Harnessing data from the web to feed analytical models and automate data entry tasks.
+- **Software Optimization**: Refining code and systems for maximum efficiency and performance.
+- **Data Analysis & Visualization**: Transforming raw data into insightful, actionable visual presentations.
+- **Database Management**: Architecting and managing databases to support scalable applications.
 
-## Languages and Tools
+## 🛠️ Technologies
+- **Languages**: Python, Bash, C
+- **Frameworks & Libraries**: TensorFlow, Scikit-learn, Pandas, NumPy
+- **Tools & Platforms**: EEGlab, NIRS Lab, Unity, LaTeX
 
-- **Programming Languages**: Python, Bash, C.
-- **Tools**: TensorFlow, Sklearn, eeglab, nirsLab, SciPy, NumPy, Pandas.
-- **Others**: LaTeX, Unity, SketchUp.
+## 🎓 Education
+- **Ph.D. in Biomedical Engineering (Droped Out)**, University of Houston, Houston, TX, USA. Specialized in Multimodal Non-Invasive Brain Machine Interfaces.
+- **B.S. in Chemical Engineering**, Sharif University of Technology, Tehran, Iran. Focused on the Development of Decellularized Scaffolds For Tissue Engineering.
 
-## Projects and Contributions
+## 📚 Selected Publications
+- Steele, S., Parekh, H., Azgomi, H., Ahmadi, M.B., et al. (2021). A mixed filtering approach for real-time seizure state tracking using multi-channel electroencephalography data. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*.
+- Cicalese, P., Li, R., Ahmadi, M.B., et al. (2020). An EEG-fNIRS hybridization technique in the four-class classification of Alzheimer's disease. *Journal of Neuroscience Methods*.
+- Ahmadi, M.B., Craik, A., Azgomi, H., et al. (2019). Real-time seizure state tracking using two channels: A mixed-filter approach. *53rd Asilomar Conference on Signals, Systems, and Computers*.
 
-- **Trading Bot for Binance**: Developing a sophisticated trading bot to automate cryptocurrency transactions. (Details remain confidential)
-- **NASA APOD Scraper and Editor**: A bash script for scraping and editing images from NASA's Astronomy Picture of the Day.
-- **News Scraper and Analyzer**: A Python project for scraping news articles and analyzing them using OpenAI's API.
-- **Multi-Threading in Bash and C**: Developed scripts to perform ethical brute forcing, maximizing CPU usage for efficient data processing.
+## 📫 Get in Touch
+I'm always on the lookout for exciting projects and collaborations. If you're interested in discussing technology, machine learning, or any potential projects, feel free to reach out!
 
-Check out my repositories for more insights into my work.
-
-## Let's Connect!
-
-I'm open to collaborations, freelance projects, or just a chat about technology and its potential to change the world. Feel free to reach out to me via my email at mhmmdbdrhmd@gmail.com.
-
+- 📧 Email: mhmmdbdrhmd@gmail.com
 
 
 <!--
