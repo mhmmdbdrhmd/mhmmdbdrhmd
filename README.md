@@ -3,7 +3,7 @@
 
 Welcome to my GitHub space! I am a passionate Machine Learning Developer, API Integrator, and Web Scraping Expert with a strong foundation in Biomedical Engineering. My journey from academia to the tech industry is fueled by a relentless curiosity and a desire to solve complex problems through innovation.
 
-| [![Machine Learning](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MACHINE%20LEARNING%20(1).gif](https://github.com/mhmmdbdrhmd/Data#machine-learning) | [![API Integration](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20API%20(1).gif)](https://github.com/mhmmdbdrhmd/Data#api-integration)  | [![Web Scraping](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20WEB%20SCRAPING%20(1).gif)](https://github.com/mhmmdbdrhmd/Data#web-scraping) |
+| Machine Learning | API Integration  | Web Scraping |
 | --- | --- | --- |
 | [![Machine Learning](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MACHINE%20LEARNING%20(1).gif)](https://github.com/mhmmdbdrhmd/Data#machine-learning) | [![API Integration](https://github.com/mhmmdbdrhmd/Data/blob/main/Blue%20-%20API%20(1).gif)](https://github.com/mhmmdbdrhmd/Data#api-integration) | [![Web Scraping](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20WEB%20SCRAPING%20(1).gif)](https://github.com/mhmmdbdrhmd/Data#web-scraping) |
 | Data Analysis | Database Management | Data Visualization |
