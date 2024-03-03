@@ -3,11 +3,12 @@
 
 Welcome to my GitHub space! I am a passionate Machine Learning Developer, API Integrator, and Web Scraping Expert with a strong foundation in Biomedical Engineering. My journey from academia to the tech industry is fueled by a relentless curiosity and a desire to solve complex problems through innovation.
 
-| Machine Learning | API Integration  | Web Scraping |
-| --- | --- | --- |
+|  |  |  |
+| :---: | :---: | :---: |
 | [![Machine Learning](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MACHINE%20LEARNING%20(1).gif)](https://github.com/mhmmdbdrhmd/Data#machine-learning) | [![API Integration](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20API%20(1).gif)](https://github.com/mhmmdbdrhmd/Data#api-integration) | [![Web Scraping](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20WEB%20SCRAPING%20(1).gif)](https://github.com/mhmmdbdrhmd/Data#web-scraping) |
-| Data Analysis | Database Management | Data Visualization |
 | [![Data Analysis](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATA%20ANALYSIS.gif)](https://github.com/mhmmdbdrhmd/Data#data-analysis) | [![Database Management](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATABASE%20MANAGEMENT.gif)](https://github.com/mhmmdbdrhmd/Data#database-management) | [![Data Visualization](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATA%20VISUALIZATION.gif)](https://github.com/mhmmdbdrhmd/Data#data-visualization) |
+| [![Multi Threading](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MULTI%20THREADING.gif)](https://github.com/mhmmdbdrhmd/Data#project-7) | [![UI UX](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20UI%20UX.gif)](https://github.com/mhmmdbdrhmd/Data#project-8) | [![Motion Design](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MOTION%20DESIGN.gif)](https://github.com/mhmmdbdrhmd/Data#project-9) |
+
 
 
 ## 🚀 Skills and Expertise
