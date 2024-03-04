@@ -24,32 +24,32 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 - **Frameworks & Libraries**: TensorFlow, Scikit-learn, Pandas, NumPy
 - **Tools & Platforms**: EEGlab, NIRS Lab, Unity, LaTeX
 
-- 
 <div>
-    <div style="width: 50%; display: inline-block; vertical-align: top;">
-        <p><strong>🏫 Education :</strong></p>
-        <div>
+    <p><strong>🏫 Education :</strong></p>
+    <div style="display: flex;">
+        <div style="width: 50%;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" width="200px" title="University of Houston">
         </div>
-        <div align="center">
-            <strong>University of Houston (Dropped Out)</strong><br>
-            <strong>Ph.D. in Biomedical Engineering</strong><br>
-            <strong>2016-2020</strong><br>
-            <strong>GPA: 4.0/4.0</strong>
-        </div>
-    </div>
-    <div style="width: 50%; display: inline-block; vertical-align: top;">
-        <div>
+        <div style="width: 50%;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png" width="200px" title="Sharif University of Technology">
         </div>
-        <div align="center">
-            <strong>Sharif University of Technology</strong><br>
-            <strong>B.Sc in Chemical Engineering</strong><br>
-            <strong>2012-2016</strong><br>
-            <strong>GPA: 15.56/20.00</strong>
+    </div>
+    <div style="display: flex;">
+        <div style="width: 50%;">
+            <p align="center"><strong>University of Houston (Dropped Out)</strong></p>
+            <p align="center"><strong>Ph.D. in Biomedical Engineering</strong></p>
+            <p align="center"><strong>2016-2020</strong></p>
+            <p align="center"><strong>GPA: 4.0/4.0</strong></p>
+        </div>
+        <div style="width: 50%;">
+            <p align="center"><strong>Sharif University of Technology</strong></p>
+            <p align="center"><strong>B.Sc in Chemical Engineering</strong></p>
+            <p align="center"><strong>2012-2016</strong></p>
+            <p align="center"><strong>GPA: 15.56/20.00</strong></p>
         </div>
     </div>
 </div>
+
 
 
 
