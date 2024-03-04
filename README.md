@@ -28,16 +28,25 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 - **Ph.D. in Biomedical Engineering (Droped Out)**, University of Houston, Houston, TX, USA. Specialized in Multimodal Non-Invasive Brain Machine Interfaces.
 - **B.S. in Chemical Engineering**, Sharif University of Technology, Tehran, Iran. Focused on the Development of Decellularized Scaffolds For Tissue Engineering.
 
+<div><p><strong>🗃️ ML Projects :</strong></p>
+
+<p align="left">
+<a href="https://ieeexplore.ieee.org/abstract/document/9541179" title="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-projects.png" width="280px" align="left" title="Car Price Prediction"/></a>
+<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
+ 
+<strong>Algorithm Used : Regression</strong>
+
+<strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p><br>
+</div>
+
 <div>
   <strong>📜 Papers: </strong></p>
 
 <!-- PAPER 1 -->
 <p align="left">
   <a href="https://ieeexplore.ieee.org/abstract/document/9541179" title="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data">
-    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/A_Mixed_Filtering_Approach_for_Real-Time_Seizure_State_Tracking_Using_Multi-Channel_Electroencephalography_Data.jpg" align= left alt="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data">
+    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/A_Mixed_Filtering_Approach_for_Real-Time_Seizure_State_Tracking_Using_Multi-Channel_Electroencephalography_Data.jpg" align= left title="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data"/></a>
     <a href="https://ieeexplore.ieee.org/abstract/document/9541179"><strong> A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data </strong>
-  </a>
-    
   <strong> Algorithms Used: </strong>
 
   <strong> Developing a machine learning model for real-time seizure state tracking using EEG data to assist in early seizure intervention. 
