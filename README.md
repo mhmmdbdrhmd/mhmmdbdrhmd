@@ -89,9 +89,6 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
   </div>
   
 
-
-## 📫 Get in Touch
-
 <div align="center">
 <div align="center"><p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
