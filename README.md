@@ -31,7 +31,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
                 <p><strong>🏫 Education :</strong></p>
                 <table style="width: 100%;">
                     <tr>
-                        <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" width="200px" title="University of Houston"></td>
+                        <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" height="200px" width="200px" title="University of Houston"></td>
                     </tr>
                     <tr>
                         <td><p align="center"><strong>University of Houston (Dropped Out)</strong></p></td>
@@ -50,7 +50,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
             <td style="width: 50%; vertical-align: top;">
                 <table style="width: 100%;">
                     <tr>
-                        <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png" width="200px" title="Sharif University of Technology"></td>
+                        <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png"  height="200px" width="200px" title="Sharif University of Technology"></td>
                     </tr>
                     <tr>
                         <td><p align="center"><strong>Sharif University of Technology</strong></p></td>
