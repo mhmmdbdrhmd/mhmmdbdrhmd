@@ -106,6 +106,9 @@ I'm always on the lookout for exciting projects and collaborations. If you're in
     <a href="https://www.linkedin.com/in/mohamad-badri-ahmadi-aa2a1a8a?original_referer=https%3A%2F%2Fwww.google.com%2F" title="LinkedIn">
         <img src="https://cdn.icon-icons.com/icons2/910/PNG/512/linkedin_icon-icons.com_71150.png" width="4%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/mhmmdbdrhmd" title="Twitter">
+        <img src="https://cdn.icon-icons.com/icons2/4029/PNG/512/twitter_x_new_logo_square_x_icon_256075.png" width="30" height="30" />
+    </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
