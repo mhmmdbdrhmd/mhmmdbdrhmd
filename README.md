@@ -123,7 +123,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <strong> Summary :</strong><br>
    We present a brain-machine interface that uses neural activity to autonomously update its performance, improving user interaction. The system is designed to adapt over time, using reinforcement learning principles. <br><br>
 
-<strong> Algorithms Used::</strong> Power spectral density (PSD), spike-field coherence (SFC), various classifiers. <br>
+<strong> Algorithms Used::</strong> Power spectral density (PSD), spike-field coherence (SFC), various classifiers. <br><br>
       
   </p>
       
