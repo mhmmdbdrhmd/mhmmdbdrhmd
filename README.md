@@ -44,38 +44,44 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
   </p>
 
 <!-- PAPER 2 -->
-<p align="center">
-  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/">
-    <img width="100%" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/An%20EEG-fNIRS%20hybridization%20technique%20in%20the%20four-class%20classi%EF%AC%81cation%20of%20alzheimer%E2%80%99s%20disease.jpg" alt="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease">
+<p align="left">
+  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/" title="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease">
+    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/An%20EEG-fNIRS%20hybridization%20technique%20in%20the%20four-class%20classi%EF%AC%81cation%20of%20alzheimer%E2%80%99s%20disease.jpg" align= left alt="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease">
+    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/"><strong> An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease </strong>
   </a>
-</p>
-<h3 align="center">An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease</h3>
-<p align="center">
-  Proposing a hybrid method using EEG and fNIRS data for improved Alzheimer's disease classification.
-</p>
+    
+  <strong> Algorithms Used: </strong>
 
+  <strong> Proposing a hybrid method using EEG and fNIRS data for improved Alzheimer's disease classification. </strong>
+
+  </p>
+  
 <!-- PAPER 3 -->
-<p align="center">
-  <a href="https://pubmed.ncbi.nlm.nih.gov/30440344/">
-    <img width="100%" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/Near_Perfect_Neural_Critic_from_Motor_Cortical_Activity_Toward_an_Autonomously_Updating_Brain_Machine_Interface.jpg" alt="Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface">
+<p align="left">
+  <a href="https://pubmed.ncbi.nlm.nih.gov/30440344/" title="Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface">
+    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/Near_Perfect_Neural_Critic_from_Motor_Cortical_Activity_Toward_an_Autonomously_Updating_Brain_Machine_Interface.jpg" align= left alt="Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface">
+    <a href="https://pubmed.ncbi.nlm.nih.gov/30440344/"><strong> Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface </strong>
   </a>
-</p>
-<h3 align="center">Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface</h3>
-<p align="center">
-  Presenting a neural critic for brain-machine interfaces that autonomously updates, leveraging motor cortical activity.
-</p>
+    
+  <strong> Algorithms Used: </strong>
 
+  <strong> Presenting a neural critic for brain-machine interfaces that autonomously updates, leveraging motor cortical activity. </strong>
+
+  </p>
+  
 <!-- PAPER 4 -->
-<p align="center">
-  <a href="https://ieeexplore.ieee.org/abstract/document/9048990">
-    <img width="100%" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/Real-Time_Seizure_State_Tracking_Using_Two_Channels_A_Mixed-Filter_Approach.jpg" alt="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach">
+<p align="left">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9048990" title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach">
+    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/Real-Time_Seizure_State_Tracking_Using_Two_Channels_A_Mixed-Filter_Approach.jpg" align= left alt="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach">
+    <a href="https://ieeexplore.ieee.org/abstract/document/9048990"><strong> Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach </strong>
   </a>
-</p>
-<h3 align="center">Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach</h3>
-<p align="center">
-  Introducing a mixed-filter approach for real-time seizure tracking using two-channel EEG, aiming at practical clinical applications.
-</p>
+    
+  <strong> Algorithms Used: </strong>
 
+  <strong> Introducing a mixed-filter approach for real-time seizure tracking using two-channel EEG, aiming at practical clinical applications. </strong>
+
+  </p>
+  
 
 ## 📚 Selected Publications
 - Steele, S., Parekh, H., Azgomi, H., Ahmadi, M.B., et al. (2021). A mixed filtering approach for real-time seizure state tracking using multi-channel electroencephalography data. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*.
