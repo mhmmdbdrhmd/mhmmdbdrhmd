@@ -68,7 +68,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <strong> Summary :</strong><br>
    We present a brain-machine interface that uses neural activity to autonomously update its performance, improving user interaction. The system is designed to adapt over time, using reinforcement learning principles. <br><br>
 
-<strong> Algorithms Used::</strong> Power spectral density (PSD), spike-field coherence (SFC), various classifiers. <br><br>
+<strong> Algorithms Used::</strong> Power spectral density (PSD), spike-field coherence (SFC), Multi-Layer Perceptron Network (MLP), k-Nearest Neighbors (kNN), Radial Basis Function kernel Support Vector Machines (RBF SVM), Gaussian Naive Bayes. Gaussian Process. <br><br>
       
   </p><br>
       
@@ -81,7 +81,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <strong> Summary :</strong><br>
    The paper introduces a method for tracking seizure states in real-time, using only two EEG channels. This technique allows for a more accessible and manageable approach to seizure monitoring. <br><br>
 
-<strong> Algorithms Used::</strong> Mixed-filter approach, Kalman filter, real-time tracking, classifier for continuous seizure state. <br>
+<strong> Algorithms Used::</strong> Mixed-filter approach, Kalman filter, real-time tracking, Linear Discriminant Analysis (LDA). <br>
       
   </p></br>
       
