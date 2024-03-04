@@ -35,14 +35,14 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <p align="left">
   <a href="https://ieeexplore.ieee.org/abstract/document/9541179" title="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data">
     <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/A_Mixed_Filtering_Approach_for_Real-Time_Seizure_State_Tracking_Using_Multi-Channel_Electroencephalography_Data.jpg" align= left alt="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data">
-    <a href="https://ieeexplore.ieee.org/abstract/document/9541179"><strong> A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data </strong><br />
+    <a href="https://ieeexplore.ieee.org/abstract/document/9541179"><strong> A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data </strong>
   </a>
     
-  <strong> Algorithms Used: </strong><br />
+  <strong> Algorithms Used: </strong>
 
-  <strong> Developing a machine learning model for real-time seizure state tracking using EEG data to assist in early seizure intervention. </strong><br /><br />
+  <strong> Developing a machine learning model for real-time seizure state tracking using EEG data to assist in early seizure intervention. 
 
-  </p>
+  </p><br>
 
 <!-- PAPER 2 -->
 <p align="left">
