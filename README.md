@@ -60,7 +60,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
   <strong> Developing a machine learning model for real-time seizure state tracking using EEG data to assist in early seizure intervention. </strong>
 
-  </p><br>
+  </p><br><br><br><br><br>
 
 <!-- PAPER 2 -->
 <p align="left">
