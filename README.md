@@ -28,8 +28,8 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
     <p><strong>🏫 Education :</strong></p>
     <table style="border-collapse: collapse; width: 100%; border: none;"> <!-- Outer table with invisible borders -->
         <tr>
-            <td style="width: 50%; vertical-align: top; border: none;">
-                <td style="width: 33%; vertical-align: top; border: none; padding-right: 8%;"> <!-- Inner table with visible borders -->
+            <td style="width: 33%; vertical-align: top; border: none; padding-right: 8%;"> <!-- Adjusted width and added padding -->
+                <table style="border-collapse: collapse; width: 100%; border: 1px solid black;"> <!-- Inner table with visible borders -->
                     <tr>
                         <td style="border: 1px solid black;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" style="width: 200px; height: 200px;" title="University of Houston"></td>
                     </tr>
@@ -47,8 +47,8 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
                     </tr>
                 </table>
             </td>
-            <td style="width: 50%; vertical-align: top; border: none;">
-                <td style="width: 33%; vertical-align: top; border: none; padding-left: 8%;"> <!-- Adjusted width and added padding -->
+            <td style="width: 33%; vertical-align: top; border: none; padding-left: 8%;"> <!-- Adjusted width and added padding -->
+                <table style="border-collapse: collapse; width: 100%; border: 1px solid black;"> <!-- Inner table with visible borders -->
                     <tr>
                         <td style="border: 1px solid black;"><img src="https://www.sharif.edu/documents/20124/0/SharifUniLogo+copy.png/55eb27b7-ff95-16f4-d1b1-802c72ab7d47?t=1650190956745" style="width: 200px; height: 200px;" title="Sharif University of Technology"></td>
                     </tr>
@@ -70,8 +70,6 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
         </tr>
     </table>
 </div>
-
-
 
 
 
