@@ -96,7 +96,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <strong> Summary :</strong><br>
    We developed a model to track seizures in real-time using EEG data, aiming to help with early seizure intervention. The approach is designed to be practical and cost-effective, leveraging a minimal number of EEG channels for monitoring. <br><br>
       
-<strong> Algorithms Used:</strong> Wrapper feature selection, state-space framework, expectation maximization, classifier for seizure state binarization. <br><br>
+<strong> Algorithms Used:</strong> Wrapper feature selection, state-space framework, expectation maximization, classifier for seizure state binarization. <br>
   
 
   </p>
