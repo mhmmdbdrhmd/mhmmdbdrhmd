@@ -105,7 +105,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <p align="left">
   <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/" title="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease">
     <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/An%20EEG-fNIRS%20hybridization%20technique%20in%20the%20four-class%20classi%EF%AC%81cation%20of%20alzheimer%E2%80%99s%20disease.jpg" align= left title="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease"/></a>
-    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/"><strong> An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease </strong>
+    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/"><strong> An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease </strong><br><br>
 
 <strong> Summary :</strong><br>
    This study combines EEG and fNIRS data to distinguish between healthy controls and patients with varying stages of Alzheimer's disease. It introduces a hybrid model that improves classification accuracy through a multi-modal approach. <br><br>
