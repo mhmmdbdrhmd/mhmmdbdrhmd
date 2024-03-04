@@ -19,7 +19,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
             <td style="width: 33%; vertical-align: top; border: none; padding-right: 8%;"> <!-- Adjusted width and added padding -->
                 <table style="border-collapse: collapse; width: 100%; border: 1px solid black;"> <!-- Inner table with visible borders -->
                     <tr>
-                        <td style="border: 1px solid black;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" style="width: 200px; height: 200px;" title="University of Houston"></td>
+                        <td style="border: 100px solid black;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" style="width: 200px; height: 200px;" title="University of Houston"></td>
                     </tr>
                     <tr>
                         <td style="border: none;"><p align="center"><strong>University of Houston (Dropped Out)</strong></p></td>
