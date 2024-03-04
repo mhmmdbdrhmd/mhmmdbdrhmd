@@ -27,12 +27,12 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
 <div>
     <p><strong>🏫 Education :</strong></p>
-    <table style="border-collapse: collapse; width: 100%; border: none;">
+    <table style="border-collapse: collapse; width: 100%; border: 0;">
         <tr>
-            <td style="width: 50%; vertical-align: top; border: none;">
+            <td style="width: 50%; vertical-align: top; border: 0;">
                 <table style="width: 100%; border: none;">
                     <tr>
-                        <td style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" width="200px" height="100px" title="University of Houston" style="display: block; margin-left: auto; margin-right: auto;"></td>
+                        <td style="border: 0;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" width="200px" height="100px" title="University of Houston" style="display: block; margin-left: auto; margin-right: auto;"></td>
                     </tr>
                     <tr>
                         <td style="border: none;"><p align="center"><strong>University of Houston (Dropped Out)</strong></p></td>
@@ -51,7 +51,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
             <td style="width: 50%; vertical-align: top; border: none;">
                 <table style="width: 100%; border: none;">
                     <tr>
-                        <td style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png" width="200px" height="100px" title="Sharif University of Technology" style="display: block; margin-left: auto; margin-right: auto;"></td>
+                        <td style="border: 0;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png" width="200px" height="100px" title="Sharif University of Technology" style="display: block; margin-left: auto; margin-right: auto;"></td>
                     </tr>
                     <tr>
                         <td style="border: none;"><p align="center"><strong>Sharif University of Technology</strong></p></td>
