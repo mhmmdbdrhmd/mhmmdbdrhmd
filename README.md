@@ -4,6 +4,7 @@
 Welcome to my GitHub space! I am a passionate Machine Learning Developer, API Integrator, and Web Scraping Expert with a strong foundation in Biomedical Engineering. My journey from academia to the tech industry is fueled by a relentless curiosity and a desire to solve complex problems through innovation.
 
 |  |  |  |
+| :---: | :---: | :---: |
 | [![Machine Learning](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MACHINE%20LEARNING%20(1).gif)](https://github.com/mhmmdbdrhmd/Data#machine-learning) | [![API Integration](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20API%20(1).gif)](https://github.com/mhmmdbdrhmd/Data#api-integration) | [![Web Scraping](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20WEB%20SCRAPING%20(1).gif)](https://github.com/mhmmdbdrhmd/Data#web-scraping) |
 | [![Data Analysis](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATA%20ANALYSIS.gif)](https://github.com/mhmmdbdrhmd/Data#data-analysis) | [![Database Management](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATABASE%20MANAGEMENT.gif)](https://github.com/mhmmdbdrhmd/Data#database-management) | [![Data Visualization](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATA%20VISUALIZATION.gif)](https://github.com/mhmmdbdrhmd/Data#data-visualization) |
 | [![Multi Thread](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20UI%20UX.gif)](https://github.com/mhmmdbdrhmd/Data#data-analysis) | [![UI UX](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20UI%20UX.gif)](https://github.com/mhmmdbdrhmd/Data#database-management) | [![Motion Design](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MOTION%20DESIGN.gif)](https://github.com/mhmmdbdrhmd/Data#data-visualization) |
@@ -22,6 +23,12 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 - **Languages**: Python, Bash, C
 - **Frameworks & Libraries**: TensorFlow, Scikit-learn, Pandas, NumPy
 - **Tools & Platforms**: EEGlab, NIRS Lab, Unity, LaTeX
+
+| | |
+| :---: | :---: |
+| ![University of Houston](https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg) | ![Sharif University of Technology](https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png) |
+| **University of Houston (Dropped Out)**<br>Ph.D. in Biomedical Engineering<br>2016-2020<br>GPA: 4.0/4.0 | **Sharif University of Technology**<br>B.Sc in Chemical Engineering<br>2012-2016<br>GPA: 15.56/20.00 |
+
 
 <div>
     <p><strong>🏫 Education :</strong></p>
