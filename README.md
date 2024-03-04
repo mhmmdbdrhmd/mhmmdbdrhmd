@@ -29,7 +29,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 - **B.S. in Chemical Engineering**, Sharif University of Technology, Tehran, Iran. Focused on the Development of Decellularized Scaffolds For Tissue Engineering.
 
 <div>
-  <h2 align="left">📜 Papers</h2>
+  <strong>📜 Papers: </strong></p>
 
 <!-- PAPER 1 -->
 <p align="left">
@@ -47,7 +47,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <!-- PAPER 2 -->
 <p align="left">
   <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/" title="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease">
-    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/An%20EEG-fNIRS%20hybridization%20technique%20in%20the%20four-class%20classi%EF%AC%81cation%20of%20alzheimer%E2%80%99s%20disease.jpg" align= left alt="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease">
+    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/An%20EEG-fNIRS%20hybridization%20technique%20in%20the%20four-class%20classi%EF%AC%81cation%20of%20alzheimer%E2%80%99s%20disease.jpg" align= left alt="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease"/></a>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/"><strong> An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease </strong>
   </a>
     
