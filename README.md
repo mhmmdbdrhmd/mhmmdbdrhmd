@@ -118,25 +118,28 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <p align="left">
   <a href="https://pubmed.ncbi.nlm.nih.gov/30440344/" title="Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface">
     <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/Near_Perfect_Neural_Critic_from_Motor_Cortical_Activity_Toward_an_Autonomously_Updating_Brain_Machine_Interface.jpg" align= left title="Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface"/></a>
-    <a href="https://pubmed.ncbi.nlm.nih.gov/30440344/"><strong> Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface </strong>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/30440344/"><strong> Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface </strong><br><br>
+
+<strong> Summary :</strong><br>
+   We present a brain-machine interface that uses neural activity to autonomously update its performance, improving user interaction. The system is designed to adapt over time, using reinforcement learning principles. <br><br>
+
+<strong> Algorithms Used: Power spectral density (PSD), spike-field coherence (SFC), various classifiers. <br>
       
-  <strong> Algorithms Used: Power spectral density (PSD), spike-field coherence (SFC), various classifiers.</strong><br><br><br>
-
-  <strong> We present a brain-machine interface that uses neural activity to autonomously update its performance, improving user interaction. The system is designed to adapt over time, using reinforcement learning principles. </strong><br><br>
-
-  </p><br><br>
-  
+  </p>
+      
 <!-- PAPER 4 -->
 <p align="left">
   <a href="https://ieeexplore.ieee.org/abstract/document/9048990" title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach">
     <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/Real-Time_Seizure_State_Tracking_Using_Two_Channels_A_Mixed-Filter_Approach.jpg" align= left title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach"/></a>
-    <a href="https://ieeexplore.ieee.org/abstract/document/9048990"><strong> Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach </strong>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9048990"><strong> Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach </strong><br><br>
+
+<strong> Summary :</strong><br>
+   The paper introduces a method for tracking seizure states in real-time, using only two EEG channels. This technique allows for a more accessible and manageable approach to seizure monitoring. <br><br>
+
+<strong> Algorithms Used: Mixed-filter approach, Kalman filter, real-time tracking, classifier for continuous seizure state. <br>
       
-  <strong> Algorithms Used: Mixed-filter approach, Kalman filter, real-time tracking, classifier for continuous seizure state.</strong><br><br><br>
-
-  <strong> The paper introduces a method for tracking seizure states in real-time, using only two EEG channels. This technique allows for a more accessible and manageable approach to seizure monitoring. </strong><br><br>
-
-  </p><br><br>
+  </p>
+      
 
   </div>
   
