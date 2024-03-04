@@ -28,25 +28,6 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 - **Ph.D. in Biomedical Engineering (Droped Out)**, University of Houston, Houston, TX, USA. Specialized in Multimodal Non-Invasive Brain Machine Interfaces.
 - **B.S. in Chemical Engineering**, Sharif University of Technology, Tehran, Iran. Focused on the Development of Decellularized Scaffolds For Tissue Engineering.
 
-<div><p><strong>🗃️ ML Projects :</strong></p>
-
-<p align="left">
-<a href="https://ieeexplore.ieee.org/abstract/document/9541179" title="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data"><img src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/A_Mixed_Filtering_Approach_for_Real-Time_Seizure_State_Tracking_Using_Multi-Channel_Electroencephalography_Data.jpg" width="280px" align="left" title="Car Price Prediction"/></a>
-<a href="https://ieeexplore.ieee.org/abstract/document/9541179"><strong>A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data</strong></a>
- 
-<strong>Algorithm Used : Regression</strong>
-
-<strong> Developing a machine learning model for real-time seizure state tracking using EEG data to assist in early seizure intervention. </strong></p><br>
-
-<p align="left">
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/" title="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease"><img src="[https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-projects.png](https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/An%20EEG-fNIRS%20hybridization%20technique%20in%20the%20four-class%20classi%EF%AC%81cation%20of%20alzheimer%E2%80%99s%20disease.jpg)" width="280px" align="left" title="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease"/></a>
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/"><strong>An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease</strong></a>
- 
-<strong>Algorithm Used : Classification</strong>
-
-<strong>Proposing a hybrid method using EEG and fNIRS data for improved Alzheimer's disease classification. .</strong></p><br>
-
-</div>
 
 <div>
   <strong>📜 Papers: </strong></p>
@@ -56,11 +37,11 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
   <a href="https://ieeexplore.ieee.org/abstract/document/9541179" title="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data">
     <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/A_Mixed_Filtering_Approach_for_Real-Time_Seizure_State_Tracking_Using_Multi-Channel_Electroencephalography_Data.jpg" align= left title="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data"/></a>
     <a href="https://ieeexplore.ieee.org/abstract/document/9541179"><strong> A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data </strong>
-  <strong> Algorithms Used: </strong><br><br><br><br><br>
+  <strong> Algorithms Used: </strong><br><br><br>
 
-  <strong> Developing a machine learning model for real-time seizure state tracking using EEG data to assist in early seizure intervention. </strong><br><br><br><br><br>
+  <strong> Developing a machine learning model for real-time seizure state tracking using EEG data to assist in early seizure intervention. </strong><br><br><br>
 
-  </p><br><br><br><br><br>
+  </p><br><br><br>
 
 <!-- PAPER 2 -->
 <p align="left">
