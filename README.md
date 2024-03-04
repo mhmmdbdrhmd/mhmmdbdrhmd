@@ -32,7 +32,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
             <td style="width: 50%; vertical-align: top; border: 0;">
                 <table style="width: 100%; border: none;">
                     <tr>
-                        <td style="border: 0;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" width="200px" height="100px" title="University of Houston" style="display: block; margin-left: auto; margin-right: auto;"></td>
+                        <td style="border: 0;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" width="200px" height="100px" title="University of Houston" style="display: block; margin-left: auto; margin-right: auto; align="center;"></td>
                     </tr>
                     <tr>
                         <td style="border: none;"><p align="center"><strong>University of Houston (Dropped Out)</strong></p></td>
