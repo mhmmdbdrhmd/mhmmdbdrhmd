@@ -44,7 +44,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <strong> Algorithms Used:</strong> Wrapper feature selection, state-space framework, expectation maximization, classifier for seizure state binarization. <br>
   
 
-  </p><br>
+  </p><br><br>
 
 <!-- PAPER 2 -->
 <p align="left">
@@ -57,7 +57,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
 <strong> Algorithms Used:</strong> Wrapper feature selection, state-space framework, expectation maximization, classifier for seizure state binarization. <br>
       
-  </p><br>
+  </p><br><br>
   
 <!-- PAPER 3 -->
 <p align="left">
@@ -70,12 +70,12 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
 <strong> Algorithms Used::</strong> Power spectral density (PSD), spike-field coherence (SFC), MLP, k-Nearest Neighbors (kNN), RBF Support Vector Machines (SVM), Gaussian Naive Bayes. Gaussian Process. <br>
       
-  </p><br>
+  </p><br><br>
       
 <!-- PAPER 4 -->
 <p align="left">
   <a href="https://ieeexplore.ieee.org/abstract/document/9048990" title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach">
-    <img width="400px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/paper%20thumbnail_Two%20channel.png" align= left title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach"/></a>
+    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/paper%20thumbnail_Two%20channel.png" align= left title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach"/></a>
     <a href="https://ieeexplore.ieee.org/abstract/document/9048990"><strong> Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach </strong><br><br>
 
 <strong> Summary :</strong><br>
