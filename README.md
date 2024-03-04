@@ -31,9 +31,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 | <p align="center"><strong>University of Houston (Dropped Out)</strong></p> |
 | <p align="center"><strong>Ph.D. in Biomedical Engineering</strong></p> |
 | <p align="center"><strong>2016-2020</strong></p> |
-| <p align="center"><strong>GPA: 4.0/4.0 </strong></p> |
-
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png" width="200px" title="University of Houston"> |
+| <p align="center"><strong>GPA: 4.0/4.0 </strong></p> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png" width="200px" title="University of Houston"> |
 | :---: |
 | <p align="center"><strong>Sharif University of Technology</strong></p> |
 | <p align="center"><strong>B.Sc in Chemical Engineering</strong></p> |
