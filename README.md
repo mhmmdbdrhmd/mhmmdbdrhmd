@@ -12,9 +12,11 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 | [![Data Analysis](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATA%20ANALYSIS.gif)](https://github.com/mhmmdbdrhmd/Data#data-analysis) | [![Database Management](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATABASE%20MANAGEMENT.gif)](https://github.com/mhmmdbdrhmd/Data#database-management) | [![Data Visualization](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATA%20VISUALIZATION.gif)](https://github.com/mhmmdbdrhmd/Data#data-visualization) |
 | [![Multi Thread](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20UI%20UX.gif)](https://github.com/mhmmdbdrhmd/Data#data-analysis) | [![UI UX](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20UI%20UX.gif)](https://github.com/mhmmdbdrhmd/Data#database-management) | [![Motion Design](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MOTION%20DESIGN.gif)](https://github.com/mhmmdbdrhmd/Data#data-visualization) |
 
+## 🏫 Education
+
 | | |
 | :---: | :---: |
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" width="100" height="100" alt="University of Houston"/>](http://www.uh.edu) | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png" width="100" height="100" alt="Sharif University of Technology"/>](http://www.sharif.edu) |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" width="400" height="400" alt="University of Houston"/>](http://www.uh.edu) | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png" width="400" height="400" alt="Sharif University of Technology"/>](http://www.sharif.edu) |
 | [**University of Houston**](http://www.uh.edu)<br>Graduate Studies in Biomedical Engineering<br>2016-2020<br>GPA: 4.0/4.0 | [**Sharif University of Technology**](http://www.sharif.edu)<br>B.Sc in Chemical Engineering<br>2012-2016<br>GPA: 15.56/20.00 |
 
 
