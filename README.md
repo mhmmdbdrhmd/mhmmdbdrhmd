@@ -31,12 +31,6 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 | [![University of Houston](https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg)](http://www.uh.edu) | [![Sharif University of Technology](https://www.sharif.edu/documents/20124/0/SharifUniLogo+copy.png/55eb27b7-ff95-16f4-d1b1-802c72ab7d47?t=1650190956745)](http://www.sharif.edu) |
 | [**University of Houston**](http://www.uh.edu)<br>Graduate Studies in Biomedical Engineering<br>2016-2020<br>GPA: 4.0/4.0 | [**Sharif University of Technology**](http://www.sharif.edu)<br>B.Sc in Chemical Engineering<br>2012-2016<br>GPA: 15.56/20.00 |
 
-
-## 🎓 Education
-- **Ph.D. in Biomedical Engineering (Droped Out)**, University of Houston, Houston, TX, USA. Specialized in Multimodal Non-Invasive Brain Machine Interfaces.
-- **B.S. in Chemical Engineering**, Sharif University of Technology, Tehran, Iran. Focused on the Development of Decellularized Scaffolds For Tissue Engineering.
-
-
 <div>
   <strong>📜 Papers: </strong></p>
 
