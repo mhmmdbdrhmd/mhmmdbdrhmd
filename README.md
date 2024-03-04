@@ -96,16 +96,16 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <div align="center"><p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mhmmdbdrhmd@gmail.com" title="Email">
-        <img src="https://cdn.icon-icons.com/icons2/933/PNG/512/google-plus-logo-on-black-background_icon-icons.com_72719.png" width="4%" />
+        <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black%20-%20GMail.png" width="4%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/mhmmdbdrhmd" title="GitHub">
-        <img src="https://cdn.icon-icons.com/icons2/3206/PNG/512/github_square_icon_195795.png" width="4%" />
+        <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black-%20Github.png" width="4%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/mohamad-badri-ahmadi-aa2a1a8a?original_referer=https%3A%2F%2Fwww.google.com%2F" title="LinkedIn">
-        <img src="https://cdn.icon-icons.com/icons2/910/PNG/512/linkedin_icon-icons.com_71150.png" width="4%" />
+        <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black%20-%20Linkding.png" width="4%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/mhmmdbdrhmd" title="Twitter">
-        <img src="https://cdn.icon-icons.com/icons2/4029/PNG/512/twitter_x_new_logo_square_x_icon_256075.png" width="4%"/>
+        <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black%20-%20Twitter%20X.png" width="4%"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
