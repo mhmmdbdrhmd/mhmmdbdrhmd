@@ -91,11 +91,9 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
 
 ## 📫 Get in Touch
-I'm always on the lookout for exciting projects and collaborations. If you're interested in discussing technology, machine learning, or any potential projects, feel free to reach out!
 
-- 📧 Email: mhmmdbdrhmd@gmail.com
-
-<div align="center"><p align="center"><strong>🌏 Connect with Me :</strong></p>
+<div align="center">
+<div align="center"><p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mhmmdbdrhmd@gmail.com" title="Email">
         <img src="https://cdn.icon-icons.com/icons2/933/PNG/512/google-plus-logo-on-black-background_icon-icons.com_72719.png" width="4%" />
@@ -107,11 +105,11 @@ I'm always on the lookout for exciting projects and collaborations. If you're in
         <img src="https://cdn.icon-icons.com/icons2/910/PNG/512/linkedin_icon-icons.com_71150.png" width="4%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/mhmmdbdrhmd" title="Twitter">
-        <img src="https://cdn.icon-icons.com/icons2/4029/PNG/512/twitter_x_new_logo_square_x_icon_256075.png" width="30" height="30" />
+        <img src="https://cdn.icon-icons.com/icons2/4029/PNG/512/twitter_x_new_logo_square_x_icon_256075.png" width="4%"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
+</div>
 
 <!--
 **mhmmdbdrhmd/mhmmdbdrhmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
