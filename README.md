@@ -24,10 +24,14 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 - **Frameworks & Libraries**: TensorFlow, Scikit-learn, Pandas, NumPy
 - **Tools & Platforms**: EEGlab, NIRS Lab, Unity, LaTeX
 
+## 🏫 Education
+
 | | |
 | :---: | :---: |
-| ![University of Houston](https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg) | ![Sharif University of Technology](https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png) |
-| <table style="border-collapse: collapse; width: 100%;"><tr><td style="background-color: gray; text-align: center; vertical-align: middle;"><table style="border: 1px solid black; width: auto; margin: auto; display: inline-table;"><tr><td style="background-color: black; color: white; padding: 10px; text-align: center; border: 1px solid black;"><a href="https://uh.edu/"><strong>University of Houston (Dropped Out)</strong></a><br>Ph.D. in Biomedical Engineering<br>2016-2020<br>GPA: 4.0/4.0</td></tr></table></td></tr></table> | **Sharif University of Technology**<br>B.Sc in Chemical Engineering<br>2012-2016<br>GPA: 15.56/20.00 |
+| [![University of Houston](https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg)](http://www.uh.edu) | [![Sharif University of Technology](https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png)](http://www.sharif.edu) |
+| [**University of Houston**](http://www.uh.edu)<br>Graduate Studies in Biomedical Engineering<br>2016-2020<br>GPA: 4.0/4.0 | [**Sharif University of Technology**](http://www.sharif.edu)<br>B.Sc in Chemical Engineering<br>2012-2016<br>GPA: 15.56/20.00 |
+
+
 
 
 <div>
