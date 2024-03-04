@@ -75,7 +75,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <!-- PAPER 4 -->
 <p align="left">
   <a href="https://ieeexplore.ieee.org/abstract/document/9048990" title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach">
-    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/paper%20thumbnail_Two%20channel.png" align= left title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach"/></a>
+    <img width="400px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/paper%20thumbnail_Two%20channel.png" align= left title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach"/></a>
     <a href="https://ieeexplore.ieee.org/abstract/document/9048990"><strong> Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach </strong><br><br>
 
 <strong> Summary :</strong><br>
