@@ -93,9 +93,9 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
     <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/A_Mixed_Filtering_Approach_for_Real-Time_Seizure_State_Tracking_Using_Multi-Channel_Electroencephalography_Data.jpg" align= left title="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data"/></a>
     <a href="https://ieeexplore.ieee.org/abstract/document/9541179"><strong> A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data </strong>
       
-  <strong> Algorithms Used: </strong><br><br><br>
+  <strong> Algorithms Used: Wrapper feature selection, state-space framework, expectation maximization, classifier for seizure state binarization. </strong><br><br><br>
 
-  <strong> Developing a machine learning model for real-time seizure state tracking using EEG data to assist in early seizure intervention. </strong><br><br>
+  <strong> We developed a model to track seizures in real-time using EEG data, aiming to help with early seizure intervention. The approach is designed to be practical and cost-effective, leveraging a minimal number of EEG channels for monitoring. </strong><br><br>
 
   </p><br><br>
 
@@ -105,9 +105,9 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
     <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/An%20EEG-fNIRS%20hybridization%20technique%20in%20the%20four-class%20classi%EF%AC%81cation%20of%20alzheimer%E2%80%99s%20disease.jpg" align= left title="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease"/></a>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/"><strong> An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease </strong>
       
-  <strong> Algorithms Used: </strong><br><br><br>
+  <strong> Algorithms Used: Pearson correlation coefficient-based feature selection (PCCFS), linear discriminant analysis (LDA), Leave One Out Cross Validation (LOOCV).</strong><br><br><br>
 
-  <strong> Proposing a hybrid method using EEG and fNIRS data for improved Alzheimer's disease classification. </strong><br><br>
+  <strong> This study combines EEG and fNIRS data to distinguish between healthy controls and patients with varying stages of Alzheimer's disease. It introduces a hybrid model that improves classification accuracy through a multi-modal approach. </strong><br><br>
 
   </p><br><br>
   
@@ -117,9 +117,9 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
     <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/Near_Perfect_Neural_Critic_from_Motor_Cortical_Activity_Toward_an_Autonomously_Updating_Brain_Machine_Interface.jpg" align= left title="Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface"/></a>
     <a href="https://pubmed.ncbi.nlm.nih.gov/30440344/"><strong> Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface </strong>
       
-  <strong> Algorithms Used: </strong><br><br><br>
+  <strong> Algorithms Used: Power spectral density (PSD), spike-field coherence (SFC), various classifiers.</strong><br><br><br>
 
-  <strong> Presenting a neural critic for brain-machine interfaces that autonomously updates, leveraging motor cortical activity. </strong><br><br>
+  <strong> We present a brain-machine interface that uses neural activity to autonomously update its performance, improving user interaction. The system is designed to adapt over time, using reinforcement learning principles. </strong><br><br>
 
   </p><br><br>
   
@@ -129,19 +129,15 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
     <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/Real-Time_Seizure_State_Tracking_Using_Two_Channels_A_Mixed-Filter_Approach.jpg" align= left title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach"/></a>
     <a href="https://ieeexplore.ieee.org/abstract/document/9048990"><strong> Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach </strong>
       
-  <strong> Algorithms Used: </strong><br><br><br>
+  <strong> Algorithms Used: Mixed-filter approach, Kalman filter, real-time tracking, classifier for continuous seizure state.</strong><br><br><br>
 
-  <strong> Introducing a mixed-filter approach for real-time seizure tracking using two-channel EEG, aiming at practical clinical applications. </strong><br><br>
+  <strong> The paper introduces a method for tracking seizure states in real-time, using only two EEG channels. This technique allows for a more accessible and manageable approach to seizure monitoring. </strong><br><br>
 
   </p><br><br>
 
   </div>
   
 
-## 📚 Selected Publications
-- Steele, S., Parekh, H., Azgomi, H., Ahmadi, M.B., et al. (2021). A mixed filtering approach for real-time seizure state tracking using multi-channel electroencephalography data. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*.
-- Cicalese, P., Li, R., Ahmadi, M.B., et al. (2020). An EEG-fNIRS hybridization technique in the four-class classification of Alzheimer's disease. *Journal of Neuroscience Methods*.
-- Ahmadi, M.B., Craik, A., Azgomi, H., et al. (2019). Real-time seizure state tracking using two channels: A mixed-filter approach. *53rd Asilomar Conference on Signals, Systems, and Computers*.
 
 ## 📫 Get in Touch
 I'm always on the lookout for exciting projects and collaborations. If you're interested in discussing technology, machine learning, or any potential projects, feel free to reach out!
