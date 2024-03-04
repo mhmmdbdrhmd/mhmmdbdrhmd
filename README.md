@@ -139,9 +139,10 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
 <strong> Algorithms Used::</strong> Mixed-filter approach, Kalman filter, real-time tracking, LDA. <br>
       
-  </p>
-  <br>  
-##    
+  </p><br>
+  
+  ##
+  <br>     
   
   </div>
   </div>
