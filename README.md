@@ -4,7 +4,7 @@
 Welcome to my GitHub space! I am a passionate Machine Learning Developer, API Integrator, and Web Scraping Expert with a strong foundation in Biomedical Engineering. My journey from academia to the tech industry is fueled by a relentless curiosity and a desire to solve complex problems through innovation.
 
 
-## 🚀 Skills and Expertise
+## 📘 Portfolio Highlights
 <div align="center">
     <table>
         <tr>
