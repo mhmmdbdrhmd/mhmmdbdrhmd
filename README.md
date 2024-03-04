@@ -91,11 +91,11 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <p align="left">
   <a href="https://ieeexplore.ieee.org/abstract/document/9541179" title="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data">
     <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/A_Mixed_Filtering_Approach_for_Real-Time_Seizure_State_Tracking_Using_Multi-Channel_Electroencephalography_Data.jpg" align= left title="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data"/></a>
-    <a href="https://ieeexplore.ieee.org/abstract/document/9541179"> A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data </a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9541179"> A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data </a><br><br>
       
-  <strong> Algorithms Used: Wrapper feature selection, state-space framework, expectation maximization, classifier for seizure state binarization. </strong><br><br><br>
+  <strong> Algorithms Used:</strong> Wrapper feature selection, state-space framework, expectation maximization, classifier for seizure state binarization. <br><br>
 
-  <strong> We developed a model to track seizures in real-time using EEG data, aiming to help with early seizure intervention. The approach is designed to be practical and cost-effective, leveraging a minimal number of EEG channels for monitoring. </strong><br><br>
+   We developed a model to track seizures in real-time using EEG data, aiming to help with early seizure intervention. The approach is designed to be practical and cost-effective, leveraging a minimal number of EEG channels for monitoring. 
 
   </p><br><br>
 
