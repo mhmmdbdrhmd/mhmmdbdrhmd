@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad Badri Ahmadi 👋
+![image](https://github.com/mhmmdbdrhmd/mhmmdbdrhmd/assets/29101930/7d692b35-8e62-446b-904d-717d6b3bba34)# Hi there, I'm Mohammad Badri Ahmadi 👋
 
 
 Welcome to my GitHub space! I am a passionate Machine Learning Developer, API Integrator, and Web Scraping Expert with a strong foundation in Biomedical Engineering. My journey from academia to the tech industry is fueled by a relentless curiosity and a desire to solve complex problems through innovation.
@@ -94,6 +94,20 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 I'm always on the lookout for exciting projects and collaborations. If you're interested in discussing technology, machine learning, or any potential projects, feel free to reach out!
 
 - 📧 Email: mhmmdbdrhmd@gmail.com
+
+<div align="center"><p align="center"><strong>🌏 Connect with Me :</strong></p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mhmmdbdrhmd@gmail.com" title="Email">
+        <img src="https://cdn.icon-icons.com/icons2/933/PNG/512/google-plus-logo-on-black-background_icon-icons.com_72719.png" width="4%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/mhmmdbdrhmd" title="GitHub">
+        <img src="https://cdn.icon-icons.com/icons2/3206/PNG/512/github_square_icon_195795.png" width="4%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mohamad-badri-ahmadi-aa2a1a8a?original_referer=https%3A%2F%2Fwww.google.com%2F" title="LinkedIn">
+        <img src="https://cdn.icon-icons.com/icons2/910/PNG/512/linkedin_icon-icons.com_71150.png" width="4%" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
 
 <!--
