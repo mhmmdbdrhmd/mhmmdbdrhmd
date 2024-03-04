@@ -54,7 +54,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
   <strong> Proposing a hybrid method using EEG and fNIRS data for improved Alzheimer's disease classification. </strong><br><br><br>
 
-  </p><br>
+  </p><br><br><br>
   
 <!-- PAPER 3 -->
 <p align="left">
@@ -67,7 +67,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
   <strong> Presenting a neural critic for brain-machine interfaces that autonomously updates, leveraging motor cortical activity. </strong><br><br><br>
 
-  </p><br>
+  </p><br><br><br>
   
 <!-- PAPER 4 -->
 <p align="left">
@@ -81,7 +81,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
   <strong> Introducing a mixed-filter approach for real-time seizure tracking using two-channel EEG, aiming at practical clinical applications. </strong><br><br><br>
 
-  </p><br>
+  </p><br><br><br>
 
   </div>
   
