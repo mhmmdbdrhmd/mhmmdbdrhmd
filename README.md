@@ -66,7 +66,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
     <a href="https://pubmed.ncbi.nlm.nih.gov/30440344/"><strong> Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface </strong><br><br>
 
 <strong> Summary :</strong><br>
-   We present a brain-machine interface that uses neural activity to autonomously update its performance, improving user interaction. The system is designed to adapt over time, using reinforcement learning principles. <br><br>
+   We present a brain-machine interface that uses neural activity to autonomously update its performance, improving user interaction. The system is designed to adapt over time, using reinforcement learning principles. <br>
 
 <strong> Algorithms Used::</strong> Power spectral density (PSD), spike-field coherence (SFC), MLP, k-Nearest Neighbors (kNN), RBF Support Vector Machines (SVM), Gaussian Naive Bayes. Gaussian Process. <br>
       
