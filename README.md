@@ -31,20 +31,20 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <div><p><strong>🗃️ ML Projects :</strong></p>
 
 <p align="left">
-<a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-projects.png" width="280px" align="left" title="Car Price Prediction"/></a>
-<a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9541179" title="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data"><img src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/A_Mixed_Filtering_Approach_for_Real-Time_Seizure_State_Tracking_Using_Multi-Channel_Electroencephalography_Data.jpg" width="280px" align="left" title="Car Price Prediction"/></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9541179"><strong>A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data</strong></a>
  
 <strong>Algorithm Used : Regression</strong>
 
-<strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p><br>
+<strong> Developing a machine learning model for real-time seizure state tracking using EEG data to assist in early seizure intervention. </strong></p><br>
 
 <p align="left">
-<a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-projects.png" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
-<a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/" title="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-projects.png" width="280px" align="left" title="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease"/></a>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/"><strong>An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease</strong></a>
  
 <strong>Algorithm Used : Classification</strong>
 
-<strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></p><br>
+<strong>Proposing a hybrid method using EEG and fNIRS data for improved Alzheimer's disease classification. .</strong></p><br>
 
 </div>
 
@@ -58,7 +58,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
     <a href="https://ieeexplore.ieee.org/abstract/document/9541179"><strong> A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data </strong>
   <strong> Algorithms Used: </strong>
 
-  <strong> Developing a machine learning model for real-time seizure state tracking using EEG data to assist in early seizure intervention. 
+  <strong> Developing a machine learning model for real-time seizure state tracking using EEG data to assist in early seizure intervention. </strong>
 
   </p><br>
 
