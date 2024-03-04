@@ -26,27 +26,28 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
 <div>
     <p><strong>🏫 Education :</strong></p>
-    <table style="border-collapse: collapse; width: 100%; border: none;">
+    <table style="border-collapse: collapse; width: 100%; border: none;"> <!-- Outer table with invisible borders -->
         <tr>
-            <td style="width: 50%; vertical-align: top; border: none; text-align: center;">
-                <!-- University of Houston logo and details -->
-                <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" style="width: 200px; height: auto;" title="University of Houston">
-                <p><strong>University of Houston (Dropped Out)</strong></p>
-                <p><strong>Ph.D. in Biomedical Engineering</strong></p>
-                <p><strong>2016-2020</strong></p>
-                <p><strong>GPA: 4.0/4.0</strong></p>
+            <td style="width: 50%; vertical-align: top; border: none;">
+                <table style="border-collapse: collapse; width: 100%; border: 1px solid black;"> <!-- Inner table with visible borders -->
+                    <tr>
+                        <td style="border: 1px solid black;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" style="width: 200px; height: 100px;" title="University of Houston"></td>
+                    </tr>
+                    <!-- Additional rows for University of Houston -->
+                </table>
             </td>
-            <td style="width: 50%; vertical-align: top; border: none; text-align: center;">
-                <!-- Sharif University of Technology logo and details -->
-                <img src="https://www.sharif.edu/documents/20124/0/SharifUniLogo+copy.png/55eb27b7-ff95-16f4-d1b1-802c72ab7d47?t=1650190956745" style="width: 200px; height: auto;" title="Sharif University of Technology">
-                <p><strong>Sharif University of Technology</strong></p>
-                <p><strong>B.Sc in Chemical Engineering</strong></p>
-                <p><strong>2012-2016</strong></p>
-                <p><strong>GPA: 15.56/20.00</strong></p>
+            <td style="width: 50%; vertical-align: top; border: none;">
+                <table style="border-collapse: collapse; width: 100%; border: 1px solid black;"> <!-- Inner table with visible borders -->
+                    <tr>
+                        <td style="border: 1px solid black;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png" style="width: 200px; height: 100px;" title="Sharif University of Technology"></td>
+                    </tr>
+                    <!-- Additional rows for Sharif University of Technology -->
+                </table>
             </td>
         </tr>
     </table>
 </div>
+
 
 
 
