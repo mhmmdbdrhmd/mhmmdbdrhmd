@@ -33,7 +33,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <!-- PAPER 1 -->
 <p align="center">
   <a href="https://ieeexplore.ieee.org/abstract/document/9541179">
-    <img width="100%" src="https://ieeexplore.ieee.org/abstract/document/9541179" alt="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data">
+    <img width="100%" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/A_Mixed_Filtering_Approach_for_Real-Time_Seizure_State_Tracking_Using_Multi-Channel_Electroencephalography_Data.jpg" alt="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data">
   </a>
 </p>
 <h3 align="center">A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data</h3>
@@ -43,8 +43,8 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
 <!-- PAPER 2 -->
 <p align="center">
-  <a href="">
-    <img width="100%" src="" alt="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease">
+  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/">
+    <img width="100%" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/An%20EEG-fNIRS%20hybridization%20technique%20in%20the%20four-class%20classi%EF%AC%81cation%20of%20alzheimer%E2%80%99s%20disease.jpg" alt="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease">
   </a>
 </p>
 <h3 align="center">An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease</h3>
@@ -54,8 +54,8 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
 <!-- PAPER 3 -->
 <p align="center">
-  <a href="">
-    <img width="100%" src="" alt="Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface">
+  <a href="https://pubmed.ncbi.nlm.nih.gov/30440344/">
+    <img width="100%" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/Near_Perfect_Neural_Critic_from_Motor_Cortical_Activity_Toward_an_Autonomously_Updating_Brain_Machine_Interface.jpg" alt="Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface">
   </a>
 </p>
 <h3 align="center">Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface</h3>
@@ -65,8 +65,8 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
 <!-- PAPER 4 -->
 <p align="center">
-  <a href="">
-    <img width="100%" src="" alt="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9048990">
+    <img width="100%" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/Real-Time_Seizure_State_Tracking_Using_Two_Channels_A_Mixed-Filter_Approach.jpg" alt="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach">
   </a>
 </p>
 <h3 align="center">Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach</h3>
