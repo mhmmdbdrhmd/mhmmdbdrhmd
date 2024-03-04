@@ -38,7 +38,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
             </td>
             <td style="width: 50%; vertical-align: top; border: none; text-align: center;">
                 <!-- Sharif University of Technology logo and details -->
-                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png" style="width: 200px; height: auto;" title="Sharif University of Technology">
+                <img src="https://www.sharif.edu/documents/20124/0/SharifUniLogo+copy.png/55eb27b7-ff95-16f4-d1b1-802c72ab7d47?t=1650190956745" style="width: 200px; height: auto;" title="Sharif University of Technology">
                 <p><strong>Sharif University of Technology</strong></p>
                 <p><strong>B.Sc in Chemical Engineering</strong></p>
                 <p><strong>2012-2016</strong></p>
