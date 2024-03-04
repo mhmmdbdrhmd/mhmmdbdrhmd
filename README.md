@@ -93,17 +93,17 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <div align="center">
 <div align="center"><p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mhmmdbdrhmd@gmail.com" title="Email">
-        <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black%20-%20GMail.png" width="10%" />
+    <a href="mhmmdbdrhmd@gmail.com" alt="Email">
+        <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black%20-%20GMail.png" width="6%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/mhmmdbdrhmd" title="GitHub">
-        <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black-%20Github.png" width="10%" />
+    <a href="https://github.com/mhmmdbdrhmd" alt="GitHub">
+        <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black-%20Github.png" width="6%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/mohamad-badri-ahmadi-aa2a1a8a?original_referer=https%3A%2F%2Fwww.google.com%2F" title="LinkedIn">
-        <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black%20-%20Linkding.png" width="10%" />
+    <a href="https://www.linkedin.com/in/mohamad-badri-ahmadi-aa2a1a8a?original_referer=https%3A%2F%2Fwww.google.com%2F" alt="LinkedIn">
+        <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black%20-%20Linkding.png" width="6%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/mhmmdbdrhmd" title="Twitter">
-        <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black%20-%20Twitter%20X.png" width="10%"/>
+  <a href="https://twitter.com/mhmmdbdrhmd" alt="Twitter">
+        <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black%20-%20Twitter%20X.png" width="6%"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
