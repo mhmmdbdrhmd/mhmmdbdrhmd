@@ -12,60 +12,13 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 | [![Data Analysis](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATA%20ANALYSIS.gif)](https://github.com/mhmmdbdrhmd/Data#data-analysis) | [![Database Management](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATABASE%20MANAGEMENT.gif)](https://github.com/mhmmdbdrhmd/Data#database-management) | [![Data Visualization](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATA%20VISUALIZATION.gif)](https://github.com/mhmmdbdrhmd/Data#data-visualization) |
 | [![Multi Thread](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20UI%20UX.gif)](https://github.com/mhmmdbdrhmd/Data#data-analysis) | [![UI UX](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20UI%20UX.gif)](https://github.com/mhmmdbdrhmd/Data#database-management) | [![Motion Design](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MOTION%20DESIGN.gif)](https://github.com/mhmmdbdrhmd/Data#data-visualization) |
 
-<div>
-    <p><strong>🏫 Education :</strong></p>
-    <table style="border-collapse: collapse; width: 100%; border: none;"> <!-- Outer table with invisible borders -->
-        <tr>
-            <td style="width: 33%; vertical-align: top; border: none; padding-right: 8%;"> <!-- Adjusted width and added padding -->
-                <table style="border-collapse: collapse; width: 100%; border: 1px solid black;"> <!-- Inner table with visible borders -->
-                    <tr>
-                        <td style="border: 100px solid black;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" style="width: 200px; height: 200px;" title="University of Houston"></td>
-                    </tr>
-                    <tr>
-                        <td style="border: none;"><p align="center"><strong>University of Houston (Dropped Out)</strong></p></td>
-                    </tr>
-                    <tr>
-                        <td style="border: none;"><p align="center"><strong>Ph.D. in Biomedical Engineering</strong></p></td>
-                    </tr>
-                    <tr>
-                        <td style="border: none;"><p align="center"><strong>2016-2020</strong></p></td>
-                    </tr>
-                    <tr>
-                        <td style="border: none;"><p align="center"><strong>GPA: 4.0/4.0 </strong></p></td>
-                    </tr>
-                </table>
-            </td>
-            <td style="width: 33%; vertical-align: top; border: none; padding-left: 8%;"> <!-- Adjusted width and added padding -->
-                <table style="border-collapse: collapse; width: 100%; border: 1px solid black;"> <!-- Inner table with visible borders -->
-                    <tr>
-                        <td style="border: 1px solid black;"><img src="https://www.sharif.edu/documents/20124/0/SharifUniLogo+copy.png/55eb27b7-ff95-16f4-d1b1-802c72ab7d47?t=1650190956745" style="width: 200px; height: 200px;" title="Sharif University of Technology"></td>
-                    </tr>
-                    <tr>
-                        <td style="border: 100;"><p align="center"><strong>Sharif University of Technology</strong></p></td>
-                    </tr>
-                    <tr>
-                    <tr>
-                        <td><p align="center"><strong>B.Sc in Chemical Engineering</strong></p></td>
-                    </tr>
-                    <tr>
-                        <td><p align="center"><strong>2012-2016</strong></p></td>
-                    </tr>
-                    <tr>
-                        <td><p align="center"><strong>GPA: 15.56/20.00 </strong></p></td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-    </table>
-</div>
-
-
 ## 🏫 Education
 
 | | |
 | :---: | :---: |
-| [![University of Houston](https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg)](http://www.uh.edu) | [![Sharif University of Technology](https://www.sharif.edu/documents/20124/0/SharifUniLogo+copy.png/55eb27b7-ff95-16f4-d1b1-802c72ab7d47?t=1650190956745)](http://www.sharif.edu) |
-| [**University of Houston**](http://www.uh.edu)<br>Graduate Studies in Biomedical Engineering<br>2016-2020<br>GPA: 4.0/4.0 | [**Sharif University of Technology**](http://www.sharif.edu)<br>B.Sc in Chemical Engineering<br>2012-2016<br>GPA: 15.56/20.00 |
+| [![University of Houston](https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg)](http://www.uh.edu) | [![Sharif University of Technology](https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png)](http://www.sharif.edu) |
+| <sub>[**University of Houston**](http://www.uh.edu)<br>Graduate Studies in Biomedical Engineering<br>2016-2020<br>GPA: 4.0/4.0</sub> | <sub>[**Sharif University of Technology**](http://www.sharif.edu)<br>B.Sc in Chemical Engineering<br>2012-2016<br>GPA: 15.56/20.00</sub> |
+
 
 <div>
   <strong>📜 Papers: </strong></p>
