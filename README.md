@@ -13,11 +13,14 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 | [![Multi Thread](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20UI%20UX.gif)](https://github.com/mhmmdbdrhmd/Data#data-analysis) | [![UI UX](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20UI%20UX.gif)](https://github.com/mhmmdbdrhmd/Data#database-management) | [![Motion Design](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MOTION%20DESIGN.gif)](https://github.com/mhmmdbdrhmd/Data#data-visualization) |
 
 ## 🏫 Education
+
 <div align="center">
-| | |
+
+  | | |
 | :---: | :---: |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" width="400" height="400" alt="University of Houston"/>](http://www.uh.edu) | [<img src="https://www.sharif.edu/documents/20124/0/SharifUniLogo+copy.png/55eb27b7-ff95-16f4-d1b1-802c72ab7d47?t=1650190956745" width="400" height="400" alt="Sharif University of Technology"/>](http://www.sharif.edu) |
 | [**University of Houston**](http://www.uh.edu)<br>Graduate Studies in Biomedical Engineering<br>2016-2020<br>GPA: 4.0/4.0 | [**Sharif University of Technology**](http://www.sharif.edu)<br>B.Sc in Chemical Engineering<br>2012-2016<br>GPA: 15.56/20.00 |
+
 </div>
 
 <div>
