@@ -5,12 +5,61 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
 
 ## 🚀 Skills and Expertise
-
-|  |  |  |
-| :---: | :---: | :---: |
-| [![Machine Learning](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MACHINE%20LEARNING%20(1).gif)](https://github.com/mhmmdbdrhmd/Football-Match-Predictor) | [![API Integration](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20API%20(1).gif)](https://github.com/mhmmdbdrhmd/Football-Match-Predictor) | [![Web Scraping](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20WEB%20SCRAPING%20(1).gif)](https://github.com/mhmmdbdrhmd/WebScrapePro) |
-| [![Data Analysis](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATA%20ANALYSIS.gif)](https://github.com/mhmmdbdrhmd/Football-Match-Predictor) | [![Database Management](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATABASE%20MANAGEMENT.gif)]() | [![Data Visualization](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATA%20VISUALIZATION.gif)](https://github.com/mhmmdbdrhmd/Football-Match-Predictor) |
-| [![Multi Thread](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MULTI%20THREADING.gif)](https://github.com/mhmmdbdrhmd/WebScrapePro) | [![UI UX](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20UI%20UX.gif)]() | [![Motion Design](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MOTION%20DESIGN.gif)]() |
+<div align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/mhmmdbdrhmd/Football-Match-Predictor">
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20MACHINE%20LEARNING%20(1).gif" width="100" alt="Machine Learning"/>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/mhmmdbdrhmd/Football-Match-Predictor">
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20API%20(1).gif" width="100" alt="API Integration"/>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/mhmmdbdrhmd/WebScrapePro">
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20WEB%20SCRAPING%20(1).gif" width="100" alt="Web Scraping"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/mhmmdbdrhmd/Football-Match-Predictor">
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20DATA%20ANALYSIS.gif" width="100" alt="Data Analysis"/>
+                </a>
+            </td>
+            <td align="center">
+                <a href="#">
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20DATABASE%20MANAGEMENT.gif" width="100" alt="Database Management"/>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/mhmmdbdrhmd/Football-Match-Predictor">
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20DATA%20VISUALIZATION.gif" width="100" alt="Data Visualization"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/mhmmdbdrhmd/WebScrapePro">
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20MULTI%20THREADING.gif" width="100" alt="Multi Threading"/>
+                </a>
+            </td>
+            <td align="center">
+                <a href="#">
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20UI%20UX.gif" width="100" alt="UI UX"/>
+                </a>
+            </td>
+            <td align="center">
+                <a href="#">
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20MOTION%20DESIGN.gif" width="100" alt="Motion Design"/>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
 
 <br><br>
 
