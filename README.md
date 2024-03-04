@@ -27,7 +27,6 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <div>
     <div style="display: inline-block; margin-right: 20px;">
         <p><strong>🏫 Education :</strong></p>
-        
         <table>
             <tr>
                 <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" width="200px" title="University of Houston"></td>
@@ -40,7 +39,6 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
             </tr>
         </table>
     </div>
-
     <div style="display: inline-block;">
         <table>
             <tr>
