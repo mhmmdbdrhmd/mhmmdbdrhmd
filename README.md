@@ -94,10 +94,10 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
     <a href="https://ieeexplore.ieee.org/abstract/document/9541179"> A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data </a><br><br>
       
   <strong> Algorithms Used:</strong> Wrapper feature selection, state-space framework, expectation maximization, classifier for seizure state binarization. <br><br>
-
+  <strong> Summary :</strong>
    We developed a model to track seizures in real-time using EEG data, aiming to help with early seizure intervention. The approach is designed to be practical and cost-effective, leveraging a minimal number of EEG channels for monitoring. 
 
-  </p><br><br>
+  </p>
 
 <!-- PAPER 2 -->
 <p align="left">
