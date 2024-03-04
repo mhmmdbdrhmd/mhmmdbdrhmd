@@ -3,26 +3,14 @@
 
 Welcome to my GitHub space! I am a passionate Machine Learning Developer, API Integrator, and Web Scraping Expert with a strong foundation in Biomedical Engineering. My journey from academia to the tech industry is fueled by a relentless curiosity and a desire to solve complex problems through innovation.
 
+
+## 🚀 Skills and Expertise
+
 |  |  |  |
 | :---: | :---: | :---: |
 | [![Machine Learning](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MACHINE%20LEARNING%20(1).gif)](https://github.com/mhmmdbdrhmd/Data#machine-learning) | [![API Integration](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20API%20(1).gif)](https://github.com/mhmmdbdrhmd/Data#api-integration) | [![Web Scraping](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20WEB%20SCRAPING%20(1).gif)](https://github.com/mhmmdbdrhmd/Data#web-scraping) |
 | [![Data Analysis](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATA%20ANALYSIS.gif)](https://github.com/mhmmdbdrhmd/Data#data-analysis) | [![Database Management](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATABASE%20MANAGEMENT.gif)](https://github.com/mhmmdbdrhmd/Data#database-management) | [![Data Visualization](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATA%20VISUALIZATION.gif)](https://github.com/mhmmdbdrhmd/Data#data-visualization) |
 | [![Multi Thread](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20UI%20UX.gif)](https://github.com/mhmmdbdrhmd/Data#data-analysis) | [![UI UX](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20UI%20UX.gif)](https://github.com/mhmmdbdrhmd/Data#database-management) | [![Motion Design](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MOTION%20DESIGN.gif)](https://github.com/mhmmdbdrhmd/Data#data-visualization) |
-
-
-
-## 🚀 Skills and Expertise
-- **Machine Learning Development**: Designing intelligent systems to automate and enhance decision-making processes.
-- **API Mastery**: Integrating various services and systems seamlessly to create cohesive applications.
-- **Web Scraping & Data Automation**: Harnessing data from the web to feed analytical models and automate data entry tasks.
-- **Software Optimization**: Refining code and systems for maximum efficiency and performance.
-- **Data Analysis & Visualization**: Transforming raw data into insightful, actionable visual presentations.
-- **Database Management**: Architecting and managing databases to support scalable applications.
-
-## 🛠️ Technologies
-- **Languages**: Python, Bash, C
-- **Frameworks & Libraries**: TensorFlow, Scikit-learn, Pandas, NumPy
-- **Tools & Platforms**: EEGlab, NIRS Lab, Unity, LaTeX
 
 ## 🏫 Education
 
