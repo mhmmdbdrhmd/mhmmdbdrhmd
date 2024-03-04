@@ -27,12 +27,12 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
 <div>
     <p><strong>🏫 Education :</strong></p>
-    <table style="border-collapse: collapse; width: 100%; border: 0;">
+    <table style="border-collapse: collapse; width: 100%; horizontal-align: center; vertical-align: top; border: none; text-align: center;">
         <tr>
-            <td style="width: 50%; vertical-align: top; border: 0;">
+            <td style="width: 50%;  horizontal-align: center; vertical-align: top; border: none; text-align: center;">
                 <table style="width: 100%; border: none;">
                     <tr>
-                        <td style="border: 0; vertical-align: top; border: none; text-align: center;">
+                        <td style="border: 0; horizontal-align: center; vertical-align: top; border: none; text-align: center;">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" width="200px" height="100px" title="University of Houston"  align="middle;"></td>
                     </tr>
                     <tr>
@@ -49,10 +49,10 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
                     </tr>
                 </table>
             </td>
-            <td style="width: 50%;  vertical-align: top; border: none; text-align: center;">
+            <td style="width: 50%;   horizontal-align: center; vertical-align: top; border: none; text-align: center;">
                 <table style="width: 100%; border: none;">
                     <tr>
-                        <td style="border: 0;"><img src="https://www.sharif.edu/documents/20124/0/SharifUniLogo+copy.png/55eb27b7-ff95-16f4-d1b1-802c72ab7d47?t=1650190956745" width="200px" height="100px" title="Sharif University of Technology" align="middle;"></td>
+                        <td style="border: 0;  horizontal-align: center; vertical-align: top; border: none; text-align: center;"><img src="https://www.sharif.edu/documents/20124/0/SharifUniLogo+copy.png/55eb27b7-ff95-16f4-d1b1-802c72ab7d47?t=1650190956745" width="200px" height="100px" title="Sharif University of Technology" align="middle;"></td>
                     </tr>
                     <tr>
                         <td style="border: none;"><p align="center"><strong>Sharif University of Technology</strong></p></td>
