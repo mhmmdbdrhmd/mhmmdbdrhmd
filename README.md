@@ -25,9 +25,6 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 - **Tools & Platforms**: EEGlab, NIRS Lab, Unity, LaTeX
 
 <div>
-    <table style="border-collapse: collapse; width: 100%;">
-        <tr>
-            <td style="width: 50%; vertical-align: top;">
                 <p><strong>🏫 Education :</strong></p>
                 <table style="width: 100%;">
                     <tr>
@@ -66,8 +63,6 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
                     </tr>
                 </table>
             </td>
-        </tr>
-    </table>
 </div>
 
 
