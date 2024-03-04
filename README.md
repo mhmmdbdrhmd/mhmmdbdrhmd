@@ -12,6 +12,8 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 | [![Data Analysis](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATA%20ANALYSIS.gif)](https://github.com/mhmmdbdrhmd/Data#data-analysis) | [![Database Management](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATABASE%20MANAGEMENT.gif)](https://github.com/mhmmdbdrhmd/Data#database-management) | [![Data Visualization](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20DATA%20VISUALIZATION.gif)](https://github.com/mhmmdbdrhmd/Data#data-visualization) |
 | [![Multi Thread](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20UI%20UX.gif)](https://github.com/mhmmdbdrhmd/Data#data-analysis) | [![UI UX](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20UI%20UX.gif)](https://github.com/mhmmdbdrhmd/Data#database-management) | [![Motion Design](https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/Blue%20-%20MOTION%20DESIGN.gif)](https://github.com/mhmmdbdrhmd/Data#data-visualization) |
 
+<br><br>
+
 ## 🏫 Education
 
 <div align="center">
@@ -23,8 +25,12 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
 </div>
 
+<br><br>
+
+
+## 📜 Papers:
 <div>
-  <strong>📜 Papers: </strong></p>
+  <strong> </strong></p>
 
 <!-- PAPER 1 -->
 <p align="left">
