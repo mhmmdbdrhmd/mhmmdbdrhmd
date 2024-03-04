@@ -1,4 +1,4 @@
-![image](https://github.com/mhmmdbdrhmd/mhmmdbdrhmd/assets/29101930/7d692b35-8e62-446b-904d-717d6b3bba34)# Hi there, I'm Mohammad Badri Ahmadi 👋
+# Hi there, I'm Mohammad Badri Ahmadi 👋
 
 
 Welcome to my GitHub space! I am a passionate Machine Learning Developer, API Integrator, and Web Scraping Expert with a strong foundation in Biomedical Engineering. My journey from academia to the tech industry is fueled by a relentless curiosity and a desire to solve complex problems through innovation.
