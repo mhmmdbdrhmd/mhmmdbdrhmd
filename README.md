@@ -31,12 +31,21 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <div><p><strong>🗃️ ML Projects :</strong></p>
 
 <p align="left">
-<a href="https://ieeexplore.ieee.org/abstract/document/9541179" title="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-projects.png" width="280px" align="left" title="Car Price Prediction"/></a>
+<a href="https://www.kaggle.com/code/themrityunjaypathak/car-price-prediction-using-linear-regression" title="Car Price Prediction"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-projects.png" width="280px" align="left" title="Car Price Prediction"/></a>
 <a href="https://github.com/TheMrityunjayPathak/CarPricePrediction"><strong>Car Price Prediction</strong></a>
  
 <strong>Algorithm Used : Regression</strong>
 
 <strong>The objective of this Project is to develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.</strong></p><br>
+
+<p align="left">
+<a href="https://www.kaggle.com/code/themrityunjaypathak/spaceship-titanic-classification" title="Spaceship Titanic Classification"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/ml-projects.png" width="280px" align="left" title="Spaceship Titanic Classification"/></a>
+<a href="https://github.com/TheMrityunjayPathak/SpaceshipTitanicClassification"><strong>Spaceship Titanic Classification</strong></a>
+ 
+<strong>Algorithm Used : Classification</strong>
+
+<strong>The objective of this Project is to predict whether a passenger was transported to an alternate dimension during the Spaceship collision with the spacetime anomaly.</strong></p><br>
+
 </div>
 
 <div>
@@ -56,9 +65,9 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <!-- PAPER 2 -->
 <p align="left">
   <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/" title="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease">
-    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/An%20EEG-fNIRS%20hybridization%20technique%20in%20the%20four-class%20classi%EF%AC%81cation%20of%20alzheimer%E2%80%99s%20disease.jpg" align= left alt="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease"/></a>
+    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/An%20EEG-fNIRS%20hybridization%20technique%20in%20the%20four-class%20classi%EF%AC%81cation%20of%20alzheimer%E2%80%99s%20disease.jpg" align= left title="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease"/></a>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/"><strong> An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease </strong>
-  </a>
+ 
     
   <strong> Algorithms Used: </strong>
 
@@ -69,30 +78,29 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <!-- PAPER 3 -->
 <p align="left">
   <a href="https://pubmed.ncbi.nlm.nih.gov/30440344/" title="Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface">
-    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/Near_Perfect_Neural_Critic_from_Motor_Cortical_Activity_Toward_an_Autonomously_Updating_Brain_Machine_Interface.jpg" align= left alt="Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface">
-    <a href="https://pubmed.ncbi.nlm.nih.gov/30440344/"><strong> Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface </strong><br />
-  </a>
+    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/Near_Perfect_Neural_Critic_from_Motor_Cortical_Activity_Toward_an_Autonomously_Updating_Brain_Machine_Interface.jpg" align= left title="Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface"/></a>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/30440344/"><strong> Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface </strong>
+  
     
-  <strong> Algorithms Used: </strong><br />
+  <strong> Algorithms Used: </strong>
 
-  <strong> Presenting a neural critic for brain-machine interfaces that autonomously updates, leveraging motor cortical activity. </strong><br /><br />
+  <strong> Presenting a neural critic for brain-machine interfaces that autonomously updates, leveraging motor cortical activity. </strong>
 
-  </p>
+  </p><br>
   
 <!-- PAPER 4 -->
 <p align="left">
   <a href="https://ieeexplore.ieee.org/abstract/document/9048990" title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach">
-    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/Real-Time_Seizure_State_Tracking_Using_Two_Channels_A_Mixed-Filter_Approach.jpg" align= left alt="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach">
-    <a href="https://ieeexplore.ieee.org/abstract/document/9048990"><strong> Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach </strong><br />
-  </a>
+    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/Real-Time_Seizure_State_Tracking_Using_Two_Channels_A_Mixed-Filter_Approach.jpg" align= left title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach"/></a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9048990"><strong> Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach </strong>
 
 
     
-  <strong> Algorithms Used: </strong><br />
+  <strong> Algorithms Used: </strong>
 
-  <strong> Introducing a mixed-filter approach for real-time seizure tracking using two-channel EEG, aiming at practical clinical applications. </strong><br /><br />
+  <strong> Introducing a mixed-filter approach for real-time seizure tracking using two-channel EEG, aiming at practical clinical applications. </strong>
 
-  </p>
+  </p><br>
 
   </div>
   
