@@ -40,7 +40,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
       
   <strong> Algorithms Used: </strong><br><br><br>
 
-  <strong> Developing a machine learning model for real-time seizure state tracking using EEG data to assist in early seizure intervention. </strong><br><br><br>
+  <strong> Developing a machine learning model for real-time seizure state tracking using EEG data to assist in early seizure intervention. </strong><br><br>
 
   </p><br><br>
 
@@ -52,7 +52,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
       
   <strong> Algorithms Used: </strong><br><br><br>
 
-  <strong> Proposing a hybrid method using EEG and fNIRS data for improved Alzheimer's disease classification. </strong><br><br><br>
+  <strong> Proposing a hybrid method using EEG and fNIRS data for improved Alzheimer's disease classification. </strong><br><br>
 
   </p><br><br>
   
@@ -64,7 +64,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
       
   <strong> Algorithms Used: </strong><br><br><br>
 
-  <strong> Presenting a neural critic for brain-machine interfaces that autonomously updates, leveraging motor cortical activity. </strong><br><br><br>
+  <strong> Presenting a neural critic for brain-machine interfaces that autonomously updates, leveraging motor cortical activity. </strong><br><br>
 
   </p><br><br>
   
@@ -76,7 +76,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
       
   <strong> Algorithms Used: </strong><br><br><br>
 
-  <strong> Introducing a mixed-filter approach for real-time seizure tracking using two-channel EEG, aiming at practical clinical applications. </strong><br><br><br>
+  <strong> Introducing a mixed-filter approach for real-time seizure tracking using two-channel EEG, aiming at practical clinical applications. </strong><br><br>
 
   </p><br><br>
 
