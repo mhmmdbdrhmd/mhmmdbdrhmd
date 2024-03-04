@@ -93,10 +93,10 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <strong> Algorithms Used:</strong> Wrapper feature selection, state-space framework, expectation maximization, classifier for seizure state binarization. <br>
   
 
-  </p><br><br>
+  </p><br>
   
 ##
-
+<br>    
 <!-- PAPER 2 -->
 <p align="left">
   <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/" title="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease">
@@ -108,10 +108,10 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
 <strong> Algorithms Used:</strong> Wrapper feature selection, state-space framework, expectation maximization, classifier for seizure state binarization. <br>
       
-  </p><br><br>
+  </p><br>
 
   ##
-  
+  <br>    
 <!-- PAPER 3 -->
 <p align="left">
   <a href="https://pubmed.ncbi.nlm.nih.gov/30440344/" title="Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface">
@@ -123,10 +123,10 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
 <strong> Algorithms Used::</strong> Power spectral density (PSD), spike-field coherence (SFC), MLP, k-Nearest Neighbors (kNN), RBF Support Vector Machines (SVM), Gaussian Naive Bayes. Gaussian Process. <br>
       
-  </p><br><br>
+  </p><br>
 
   ##
-      
+  <br>    
 <!-- PAPER 4 -->
 <p align="left">
   <a href="https://ieeexplore.ieee.org/abstract/document/9048990" title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach">
@@ -138,9 +138,10 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 
 <strong> Algorithms Used::</strong> Mixed-filter approach, Kalman filter, real-time tracking, LDA. <br>
       
-  </p></br>
+  </p>
       
 ##
+<br>    
   </div>
   </div>
   <br><br><br>
