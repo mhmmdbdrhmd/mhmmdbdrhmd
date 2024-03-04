@@ -10,51 +10,51 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
         <tr>
             <td align="center">
                 <a href="https://github.com/mhmmdbdrhmd/Football-Match-Predictor">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20MACHINE%20LEARNING%20(1).gif" width="100" alt="Machine Learning"/>
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20MACHINE%20LEARNING%20(1).gif" width="200" alt="Machine Learning"/>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/mhmmdbdrhmd/Football-Match-Predictor">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20API%20(1).gif" width="100" alt="API Integration"/>
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20API%20(1).gif" width="200" alt="API Integration"/>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/mhmmdbdrhmd/WebScrapePro">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20WEB%20SCRAPING%20(1).gif" width="100" alt="Web Scraping"/>
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20WEB%20SCRAPING%20(1).gif" width="200" alt="Web Scraping"/>
                 </a>
             </td>
         </tr>
         <tr>
             <td align="center">
                 <a href="https://github.com/mhmmdbdrhmd/Football-Match-Predictor">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20DATA%20ANALYSIS.gif" width="100" alt="Data Analysis"/>
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20DATA%20ANALYSIS.gif" width="200" alt="Data Analysis"/>
                 </a>
             </td>
             <td align="center">
                 <a href="#">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20DATABASE%20MANAGEMENT.gif" width="100" alt="Database Management"/>
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20DATABASE%20MANAGEMENT.gif" width="200" alt="Database Management"/>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/mhmmdbdrhmd/Football-Match-Predictor">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20DATA%20VISUALIZATION.gif" width="100" alt="Data Visualization"/>
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20DATA%20VISUALIZATION.gif" width="200" alt="Data Visualization"/>
                 </a>
             </td>
         </tr>
         <tr>
             <td align="center">
                 <a href="https://github.com/mhmmdbdrhmd/WebScrapePro">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20MULTI%20THREADING.gif" width="100" alt="Multi Threading"/>
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20MULTI%20THREADING.gif" width="200" alt="Multi Threading"/>
                 </a>
             </td>
             <td align="center">
                 <a href="#">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20UI%20UX.gif" width="100" alt="UI UX"/>
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20UI%20UX.gif" width="200" alt="UI UX"/>
                 </a>
             </td>
             <td align="center">
                 <a href="#">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20MOTION%20DESIGN.gif" width="100" alt="Motion Design"/>
+                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20MOTION%20DESIGN.gif" width="200" alt="Motion Design"/>
                 </a>
             </td>
         </tr>
