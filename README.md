@@ -122,7 +122,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <strong> Summary :</strong><br>
    We present a brain-machine interface that uses neural activity to autonomously update its performance, improving user interaction. The system is designed to adapt over time, using reinforcement learning principles. <br><br>
 
-<strong> Algorithms Used::</strong> Power spectral density (PSD), spike-field coherence (SFC), MLP, k-Nearest Neighbors (kNN), RBF Support Vector Machines (SVM), Gaussian Naive Bayes. Gaussian Process. <br>
+<strong> Algorithms Used::</strong> Power spectral density (PSD), spike-field coherence (SFC), MLP, k-Nearest Neighbors (kNN), RBF Support Vector Machines (SVM), Gaussian Naive Bayes. Gaussian Process. 
       
   </p><br>
 
@@ -132,7 +132,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <p align="left">
   <a href="https://ieeexplore.ieee.org/abstract/document/9048990" title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach">
     <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/paper%20thumbnail_Two%20channel.png" align= left title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach"/></a>
-    <a href="https://ieeexplore.ieee.org/abstract/document/9048990"><strong> Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach </strong><br><br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9048990"><strong> Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach </strong><br><br><br>
 
 <strong> Summary :</strong><br>
    The paper introduces a method for tracking seizure states in real-time, using only two EEG channels. This technique allows for a more accessible and manageable approach to seizure monitoring. <br><br>
@@ -148,8 +148,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
   </div>
   </div>
 
-  <br>  
-  <br><br><br>
+ <br><br>
 
 <div align="center">
 <div align="center"><p align="center">
