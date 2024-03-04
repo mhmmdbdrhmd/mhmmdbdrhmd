@@ -48,6 +48,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
                 </table>
             </td>
             <td style="width: 50%; vertical-align: top;">
+                <p><strong></strong></p><br>
                 <table style="width: 100%;">
                     <tr>
                         <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png" width="200px" title="Sharif University of Technology"></td>
