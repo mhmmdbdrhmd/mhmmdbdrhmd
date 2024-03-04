@@ -24,11 +24,12 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 - **Frameworks & Libraries**: TensorFlow, Scikit-learn, Pandas, NumPy
 - **Tools & Platforms**: EEGlab, NIRS Lab, Unity, LaTeX
 
+
 <div>
+    <p><strong>🏫 Education :</strong></p>
     <table style="border-collapse: collapse; width: 100%;">
         <tr>
             <td style="width: 50%; vertical-align: top;">
-                <p><strong>🏫 Education :</strong></p>
                 <table style="width: 100%;">
                     <tr>
                         <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" width="200px" title="University of Houston"></td>
