@@ -33,7 +33,18 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
                     <tr>
                         <td style="border: 1px solid black;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" style="width: 200px; height: 100px;" title="University of Houston"></td>
                     </tr>
-                    <!-- Additional rows for University of Houston -->
+                    <tr>
+                        <td style="border: none;"><p align="center"><strong>University of Houston (Dropped Out)</strong></p></td>
+                    </tr>
+                    <tr>
+                        <td style="border: none;"><p align="center"><strong>Ph.D. in Biomedical Engineering</strong></p></td>
+                    </tr>
+                    <tr>
+                        <td style="border: none;"><p align="center"><strong>2016-2020</strong></p></td>
+                    </tr>
+                    <tr>
+                        <td style="border: none;"><p align="center"><strong>GPA: 4.0/4.0 </strong></p></td>
+                    </tr>
                 </table>
             </td>
             <td style="width: 50%; vertical-align: top; border: none;">
@@ -41,7 +52,19 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
                     <tr>
                         <td style="border: 1px solid black;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sharif_Foundation_Logo.png" style="width: 200px; height: 100px;" title="Sharif University of Technology"></td>
                     </tr>
-                    <!-- Additional rows for Sharif University of Technology -->
+                    <tr>
+                        <td style="border: 100;"><p align="center"><strong>Sharif University of Technology</strong></p></td>
+                    </tr>
+                    <tr>
+                    <tr>
+                        <td><p align="center"><strong>B.Sc in Chemical Engineering</strong></p></td>
+                    </tr>
+                    <tr>
+                        <td><p align="center"><strong>2012-2016</strong></p></td>
+                    </tr>
+                    <tr>
+                        <td><p align="center"><strong>GPA: 15.56/20.00 </strong></p></td>
+                    </tr>
                 </table>
             </td>
         </tr>
