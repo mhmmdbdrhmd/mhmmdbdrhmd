@@ -60,6 +60,8 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <strong> Algorithms Used:</strong> Wrapper feature selection, state-space framework, expectation maximization, classifier for seizure state binarization. <br>
       
   </p><br><br>
+
+  ##
   
 <!-- PAPER 3 -->
 <p align="left">
@@ -73,6 +75,8 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
 <strong> Algorithms Used::</strong> Power spectral density (PSD), spike-field coherence (SFC), MLP, k-Nearest Neighbors (kNN), RBF Support Vector Machines (SVM), Gaussian Naive Bayes. Gaussian Process. <br>
       
   </p><br><br>
+
+  ##
       
 <!-- PAPER 4 -->
 <p align="left">
@@ -87,7 +91,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
       
   </p></br>
       
-
+##
   </div>
   </div>
   <br><br><br>
