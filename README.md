@@ -14,7 +14,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/mhmmdbdrhmd/Football-Match-Predictor">
+                <a href="https://github.com/mhmmdbdrhmd/weather_dashboard">
                     <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20API%20(1).gif" width="200" alt="API Integration"/>
                 </a>
             </td>
@@ -31,12 +31,12 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
                 </a>
             </td>
             <td align="center">
-                <a href="#">
+                <a href="https://github.com/mhmmdbdrhmd/weather_dashboard">
                     <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20DATABASE%20MANAGEMENT.gif" width="200" alt="Database Management"/>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/mhmmdbdrhmd/Football-Match-Predictor">
+                <a href="https://github.com/mhmmdbdrhmd/weather_dashboard">
                     <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20DATA%20VISUALIZATION.gif" width="200" alt="Data Visualization"/>
                 </a>
             </td>
@@ -48,7 +48,7 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
                 </a>
             </td>
             <td align="center">
-                <a href="#">
+                <a href="https://github.com/mhmmdbdrhmd/weather_dashboard">
                     <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20UI%20UX.gif" width="200" alt="UI UX"/>
                 </a>
             </td>
