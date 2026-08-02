@@ -38,9 +38,13 @@ separating signal from noise — first in brains, now in machines.
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
-        <img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/zupt.gif" width="400" alt="Zero-velocity update preventing filter divergence while parked"/>
-        <br/><sub><b>Zero-velocity update</b> — parked wheels emit no ticks, so the covariance inflates unopposed. Shown in isolation; a speed-scaled slew cap addresses the position drift separately, while ZUPT is what keeps the uncertainty bounded</sub>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/zupt.gif" width="400" alt="Zero-velocity update bounding the covariance while parked"/>
+        <br/><sub><b>Zero-velocity update</b> — parked wheels emit no ticks, so the covariance inflates unopposed. Shown in isolation; a slew cap handles position drift separately</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/parity.gif" width="400" alt="Embedded and host paths diverging when a feature buffer is mis-mapped"/>
+        <br/><sub><b>Embedded/host parity</b> — replay the same bundle offline; a mis-mapped feature buffer shows up instantly</sub>
       </td>
     </tr>
   </table>
