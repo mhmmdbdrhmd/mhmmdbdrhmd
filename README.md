@@ -1,165 +1,140 @@
-# Hi there, I'm Mohammad Badri Ahmadi 👋
+# Mohammad Badri Ahmadi
 
+**Embedded systems & on-device AI.** I build the part of a machine that decides —
+sensor fusion, Kalman filtering and small neural networks that run on a microcontroller
+beside a live CAN stack, deterministic under load, on vehicles in the field.
 
-Welcome to my GitHub space! I am a passionate Machine Learning Developer, API Integrator, and Web Scraping Expert with a strong foundation in Biomedical Engineering. My journey from academia to the tech industry is fueled by a relentless curiosity and a desire to solve complex problems through innovation.
+My estimation methods are published in *IEEE Transactions on Neural Systems and
+Rehabilitation Engineering* and the *Journal of Neuroscience Methods*. A decade spent
+separating signal from noise — first in brains, now in machines.
 
+`ESP32` · `CAN / CANopen / J1939` · `Bosch Rexroth RC5-6/40 (BODAS)` · `ifm CR710S / CODESYS`
+· `C` · `Python` · `EKF` · `TensorFlow → MCU`
 
-## 📘 Portfolio Highlights
+🌐 **[biss.qzz.io](https://biss.qzz.io)** · 📧 **[contact@biss.qzz.io](mailto:contact@biss.qzz.io)**
+
+---
+
 <div align="center">
-    <table>
-        <tr>
-            <td align="center">
-                <a href="https://github.com/mhmmdbdrhmd/Football-Match-Predictor">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20MACHINE%20LEARNING%20(1).gif" width="200" alt="Machine Learning"/>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/mhmmdbdrhmd/weather_dashboard">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20API%20(1).gif" width="200" alt="API Integration"/>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/mhmmdbdrhmd/WebScrapePro">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20WEB%20SCRAPING%20(1).gif" width="200" alt="Web Scraping"/>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <a href="https://github.com/mhmmdbdrhmd/Football-Match-Predictor">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20DATA%20ANALYSIS.gif" width="200" alt="Data Analysis"/>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/mhmmdbdrhmd/weather_dashboard">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20DATABASE%20MANAGEMENT.gif" width="200" alt="Database Management"/>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/mhmmdbdrhmd/weather_dashboard">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20DATA%20VISUALIZATION.gif" width="200" alt="Data Visualization"/>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <a href="https://github.com/mhmmdbdrhmd/WebScrapePro">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20MULTI%20THREADING.gif" width="200" alt="Multi Threading"/>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/mhmmdbdrhmd/weather_dashboard">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20UI%20UX.gif" width="200" alt="UI UX"/>
-                </a>
-            </td>
-            <td align="center">
-                <a href="#">
-                    <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/portfolio/portfolio_low_size/Blue%20-%20MOTION%20DESIGN.gif" width="200" alt="Motion Design"/>
-                </a>
-            </td>
-        </tr>
-    </table>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/ekf-tracking.gif" width="400" alt="Extended Kalman filter recovering truth from noisy measurements"/>
+        <br/><sub><b>State estimation</b> — EKF, Joseph-form covariance, ±1σ band</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/can-stream.gif" width="400" alt="CAN bus frames decoded live"/>
+        <br/><sub><b>CAN / CANopen</b> — acquisition and live decoding</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/mlp-inference.gif" width="400" alt="233-parameter MLP running inference on an ESP32"/>
+        <br/><sub><b>On-device AI</b> — 233 parameters, 27–8–1, ≈4 ms on an ESP32</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/stationary-gate.gif" width="400" alt="Stop-signal gating a speed estimator"/>
+        <br/><sub><b>Sensor fusion</b> — stop-signal gating, false positives ≈2%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/zupt.gif" width="400" alt="Zero-velocity update preventing filter divergence while parked"/>
+        <br/><sub><b>Zero-velocity update</b> — parked wheels emit no ticks, so the covariance inflates unopposed. Shown in isolation; a speed-scaled slew cap addresses the position drift separately, while ZUPT is what keeps the uncertainty bounded</sub>
+      </td>
+    </tr>
+  </table>
+  <sub><i>Every frame above is computed, not drawn — the EKF, the network and the gate are real implementations.</i></sub>
 </div>
 
-<br><br>
+---
+
+## 🔧 Engineering Work
+
+**On-device stationary detection for vehicle speed estimation**
+A 233-parameter MLP (27–8–1) running in real time on an ESP32 alongside CAN acquisition,
+producing a stop-signal that gates a downstream speed estimator. Causal multi-scale
+rolling-standard-deviation features across two 6-axis CAN IMUs and a PLC-derived hitch angle.
+**End-to-end feature construction plus forward pass in ≈4 ms.** Deployed via an SD-card model
+bundle — thresholds, window sizes, feature ordering and weights change with no firmware
+recompilation. Designed around minimising false positives; field false-positive time fraction
+reduced from ~5% to ~2% through embedded/host parity analysis that isolated a feature-mapping
+bug from model error.
+
+**Steering angle from wheel encoders alone**
+Recovering drawbar steering angle online from two wheel encoders, with the angle sensor used
+strictly as ground truth — never as a filter input. The dominant error was integer tick
+quantisation amplified by the ratio formula, so **the filtering moved ahead of the ratio**
+onto the raw channels, where each signal is smooth and high-SNR. Causal cascade: Hampel spike
+rejection → speed-adaptive per-wheel Kalman smoother → angle KF with ZUPT, Huber and
+manoeuvre-gated measurement noise, a speed-scaled slew cap and a fixed-lag RTS smoother
+(100 ms latency) → fixed nonlinear amplitude map. **RMSE 9.03 / 7.81 / 6.56°** across three
+field recordings on one frozen parameter set, with the acceleration tail at or below the
+reference signal's own. No-leakage is *proven*: a scramble test overwriting the reference
+columns yields byte-identical output, and leave-one-recording-out confirms the amplitude
+constants generalise.
+
+**Bosch Rexroth RC5-6/40 ECU commissioning**
+Portable PLC test bench around a Rexroth RC5-6/40 mobile controller — supply, ignition and
+inhibit-pin wiring, CAN interfacing, full BODAS/HighTec build-and-flash validation. Quadrature
+ABS wheel-speed acquisition in both trusted and memory-protected untrusted partitions, plus
+dual-channel analog angle integration, verified against two independent CAN analysers with a
+custom DBC database.
+
+*Sanitised case studies available on request; full technical reports under NDA.*
+
+---
+
+## 📜 Peer-Reviewed Publications
+
+**A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data**
+*IEEE Transactions on Neural Systems and Rehabilitation Engineering*, vol. 29, pp. 2037–2045, 2021
+[**DOI: 10.1109/TNSRE.2021.3113888**](https://doi.org/10.1109/TNSRE.2021.3113888)
+Real-time seizure-state tracking from EEG with a minimal channel count.
+*Methods: state-space framework, expectation maximisation, wrapper feature selection, mixed filtering.*
+
+**An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer's Disease**
+*Journal of Neuroscience Methods*, vol. 336, p. 108618, 2020
+[**DOI: 10.1016/j.jneumeth.2020.108618**](https://doi.org/10.1016/j.jneumeth.2020.108618)
+Multimodal fusion of EEG and fNIRS to separate healthy controls from staged Alzheimer's patients.
+*Methods: multimodal feature fusion, wrapper feature selection, four-class classification.*
+
+**Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach**
+*53rd Asilomar Conference on Signals, Systems, and Computers*, 2019, pp. 2033–2039
+[**DOI: 10.1109/IEEECONF44664.2019.9048990**](https://doi.org/10.1109/IEEECONF44664.2019.9048990)
+*Methods: mixed-filter approach, Kalman filtering, real-time state tracking, LDA.*
+
+**Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface**
+*IEEE Engineering in Medicine and Biology Society (EMBC)*, 2018, pp. 73–76
+[**DOI: 10.1109/EMBC.2018.8512274**](https://doi.org/10.1109/EMBC.2018.8512274)
+*Methods: power spectral density, spike-field coherence, MLP, kNN, RBF-SVM, Gaussian processes.*
+
+---
 
 ## 🏫 Education
 
 <div align="center">
 
-  | | |
+| | |
 | :---: | :---: |
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" width="400" height="400" alt="University of Houston"/>](http://www.uh.edu) | [<img src="https://www.sharif.edu/documents/20124/0/SharifUniLogo+copy.png/55eb27b7-ff95-16f4-d1b1-802c72ab7d47?t=1650190956745" width="400" height="400" alt="Sharif University of Technology"/>](http://www.sharif.edu) |
-| **University of Houston** <br>Graduate Studies in Biomedical Engineering<br>2016-2020<br>GPA: 4.0/4.0 | **Sharif University of Technology** <br>B.Sc in Chemical Engineering<br>2012-2016<br>GPA: 15.56/20.00 |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/University_of_Houston_Logo.svg" width="200" alt="University of Houston"/>](http://www.uh.edu) | [<img src="https://www.sharif.edu/documents/20124/0/SharifUniLogo+copy.png/55eb27b7-ff95-16f4-d1b1-802c72ab7d47?t=1650190956745" width="200" alt="Sharif University of Technology"/>](http://www.sharif.edu) |
+| **University of Houston** <br>Doctoral studies, Biomedical Engineering<br>2016–2020 · GPA 4.0/4.0 | **Sharif University of Technology** <br>B.Sc. Chemical Engineering<br>2012–2016 |
 
 </div>
 
+---
+
 <br><br>
 
-
-## 📜 Papers:
-<br>
-<div>
-  <strong> </strong></p>
-
-<!-- PAPER 1 -->
-<p align="left">
-  <a href="https://ieeexplore.ieee.org/abstract/document/9541179" title="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data">
-    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/paper%20thumbnail_Multi%20Channel.png" align= left title="A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data"/></a>
-    <a href="https://ieeexplore.ieee.org/abstract/document/9541179"> <strong> A Mixed Filtering Approach for Real-Time Seizure State Tracking Using Multi-Channel Electroencephalography Data </strong><br><br>
-    
-<strong> Summary :</strong><br>
-   We developed a model to track seizures in real-time using EEG data, aiming to help with early seizure intervention. The approach is designed to be practical and cost-effective, leveraging a minimal number of EEG channels for monitoring. <br><br>
-      
-<strong> Algorithms Used:</strong> Wrapper feature selection, state-space framework, expectation maximization, classifier for seizure state binarization. <br>
-  
-
-  </p><br>
-  
-##
-<br>    
-<!-- PAPER 2 -->
-<p align="left">
-  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/" title="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease">
-    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/paper%20thumbnail_Alsaymer.png" align= left title="An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease"/></a>
-    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376762/"><strong> An EEG-fNIRS Hybridization Technique in the Four-Class Classification of Alzheimer’s Disease </strong><br><br>
-
-<strong> Summary :</strong><br>
-   This study combines EEG and fNIRS data to distinguish between healthy controls and patients with varying stages of Alzheimer's disease. It introduces a hybrid model that improves classification accuracy through a multi-modal approach. <br><br>
-
-<strong> Algorithms Used:</strong> Wrapper feature selection, state-space framework, expectation maximization, classifier for seizure state binarization. <br>
-      
-  </p><br>
-
-  ##
-  <br>    
-<!-- PAPER 3 -->
-<p align="left">
-  <a href="https://pubmed.ncbi.nlm.nih.gov/30440344/" title="Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface">
-    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/paper%20thumbnail_BMI.png" align= left title="Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface"/></a>
-    <a href="https://pubmed.ncbi.nlm.nih.gov/30440344/"><strong> Near-Perfect Neural Critic from Motor Cortical Activity Toward an Autonomously Updating Brain-Machine Interface </strong><br><br>
-
-<strong> Summary :</strong><br>
-   We present a brain-machine interface that uses neural activity to autonomously update its performance, improving user interaction. The system is designed to adapt over time, using reinforcement learning principles. <br><br>
-
-<strong> Algorithms Used::</strong> Power spectral density (PSD), spike-field coherence (SFC), MLP, k-Nearest Neighbors (kNN), RBF Support Vector Machines (SVM), Gaussian Naive Bayes. Gaussian Process. 
-      
-  </p><br>
-
-  ##
-  <br>    
-<!-- PAPER 4 -->
-<p align="left">
-  <a href="https://ieeexplore.ieee.org/abstract/document/9048990" title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach">
-    <img width="280px" src="https://github.com/mhmmdbdrhmd/Data/blob/main/thumbnails/paper%20thumbnail_Two%20channel.png" align= left title="Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach"/></a>
-    <a href="https://ieeexplore.ieee.org/abstract/document/9048990"><strong> Real-Time Seizure State Tracking Using Two Channels: A Mixed-Filter Approach </strong><br><br><br>
-
-<strong> Summary :</strong><br>
-   The paper introduces a method for tracking seizure states in real-time, using only two EEG channels. This technique allows for a more accessible and manageable approach to seizure monitoring. <br><br>
-
-<strong> Algorithms Used::</strong> Mixed-filter approach, Kalman filter, real-time tracking, LDA. <br>
-      
-  </p><br>
-  <br>
-  
-  ##
-  <br>     
-  
-  </div>
-  </div>
-
- <br><br>
-
-<div align="center">
 <div align="center"><p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mhmmdbdrhmd@gmail.com" style="text-decoration: none;" alt="Email">
+    <a href="mailto:contact@biss.qzz.io" style="text-decoration: none;" alt="Email">
         <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black%20-%20GMail.png" width="6%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/mhmmdbdrhmd" style="text-decoration: none;" alt="GitHub">
         <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black-%20Github.png" width="6%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/mohamad-badri-ahmadi-aa2a1a8a?original_referer=https%3A%2F%2Fwww.google.com%2F" style="text-decoration: none;" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/mohamad-badri-ahmadi-aa2a1a8a" style="text-decoration: none;" alt="LinkedIn">
         <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black%20-%20Linkding.png" width="6%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/mhmmdbdrhmd" style="text-decoration: none;" alt="Twitter">
@@ -170,20 +145,4 @@ Welcome to my GitHub space! I am a passionate Machine Learning Developer, API In
         <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black%20-%20Website.png" width="6%"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-</div>
-
-<!--
-**mhmmdbdrhmd/mhmmdbdrhmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p></div>
