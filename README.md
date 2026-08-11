@@ -19,36 +19,54 @@ separating signal from noise — first in brains, now in machines.
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/ekf-tracking.gif" width="400" alt="Extended Kalman filter recovering truth from noisy measurements"/>
+        <a href="https://github.com/mhmmdbdrhmd/ekf-steering-angle"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/ekf-tracking.gif" width="400" alt="Extended Kalman filter recovering truth from noisy measurements"/></a>
         <br/><sub><b>State estimation</b> — EKF, Joseph-form covariance, ±1σ band</sub>
+        <br/><sub><a href="https://github.com/mhmmdbdrhmd/ekf-steering-angle"><b>ekf-steering-angle</b> ↗</a></sub>
       </td>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/can-stream.gif" width="400" alt="CAN bus frames decoded live"/>
+        <a href="https://github.com/mhmmdbdrhmd/can-logger-esp32"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/can-stream.gif" width="400" alt="CAN bus frames decoded live"/></a>
         <br/><sub><b>CAN / CANopen</b> — acquisition and live decoding</sub>
+        <br/><sub><a href="https://github.com/mhmmdbdrhmd/can-logger-esp32"><b>can-logger-esp32</b> ↗</a></sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/mlp-inference.gif" width="400" alt="233-parameter MLP running inference on an ESP32"/>
-        <br/><sub><b>On-device AI</b> — 233 parameters, 27–8–1, ≈4 ms on an ESP32</sub>
+        <a href="https://github.com/mhmmdbdrhmd/stationary-detection"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/mlp-inference.gif" width="400" alt="209-parameter MLP running inference on an ESP32"/></a>
+        <br/><sub><b>On-device AI</b> — 209 parameters, 24–8–1, ≈4 ms on an ESP32</sub>
+        <br/><sub><a href="https://github.com/mhmmdbdrhmd/stationary-detection"><b>stationary-detection</b> ↗</a></sub>
       </td>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/stationary-gate.gif" width="400" alt="Stop-signal gating a speed estimator"/>
-        <br/><sub><b>Sensor fusion</b> — stop-signal gating, false positives ≈2%</sub>
+        <a href="https://github.com/mhmmdbdrhmd/stationary-detection"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/stationary-gate.gif" width="400" alt="Stop-signal gating a speed estimator"/></a>
+        <br/><sub><b>Sensor fusion</b> — a false positive clamps a real speed to zero, so it is scored in km/h, not accuracy</sub>
+        <br/><sub><a href="https://github.com/mhmmdbdrhmd/stationary-detection"><b>stationary-detection</b> ↗</a></sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/zupt.gif" width="400" alt="Zero-velocity update bounding the covariance while parked"/>
+        <a href="https://github.com/mhmmdbdrhmd/ekf-steering-angle"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/zupt.gif" width="400" alt="Zero-velocity update bounding the covariance while parked"/></a>
         <br/><sub><b>Zero-velocity update</b> — parked wheels emit no ticks, so the covariance inflates unopposed. Shown in isolation; a slew cap handles position drift separately</sub>
+        <br/><sub><a href="https://github.com/mhmmdbdrhmd/ekf-steering-angle"><b>ekf-steering-angle</b> ↗</a></sub>
       </td>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/parity.gif" width="400" alt="Embedded and host paths diverging when a feature buffer is mis-mapped"/>
+        <a href="https://github.com/mhmmdbdrhmd/mcu-model-bundle"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/parity.gif" width="400" alt="Embedded and host paths diverging when a feature buffer is mis-mapped"/></a>
         <br/><sub><b>Embedded/host parity</b> — replay the same bundle offline; a mis-mapped feature buffer shows up instantly</sub>
+        <br/><sub><a href="https://github.com/mhmmdbdrhmd/mcu-model-bundle"><b>mcu-model-bundle</b> ↗</a></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/mhmmdbdrhmd/can-logger-esp32"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/dbc-decode.gif" width="400" alt="A 16-bit signal lifted out of a CAN frame at bit 24 and scaled into km/h"/></a>
+        <br/><sub><b>DBC decoding</b> — a signal is a bit offset and a bit length, free to straddle byte boundaries. The number is decoded from the bytes above it</sub>
+        <br/><sub><a href="https://github.com/mhmmdbdrhmd/can-logger-esp32"><b>can-logger-esp32</b> ↗</a></sub>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/mhmmdbdrhmd/esp32-sd-file-manager"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/sd-transfer.gif" width="400" alt="A file streamed off an SD card over USB serial, verified chunk by chunk with CRC-32"/></a>
+        <br/><sub><b>Getting data off the machine</b> — out of Wi-Fi range the log still has to come back, so the transfer verifies itself: CRC-32 folded chunk by chunk as the bytes leave the card</sub>
+        <br/><sub><a href="https://github.com/mhmmdbdrhmd/esp32-sd-file-manager"><b>esp32-sd-file-manager</b> ↗</a></sub>
       </td>
     </tr>
   </table>
-  <sub><i>Every frame above is computed, not drawn — the EKF, the network and the gate are real implementations.</i></sub>
+  <sub><i>Every frame above is computed, not drawn — the EKF, the network, the gate and the checksum are real implementations. Each one links to the repository it came from.</i></sub>
 </div>
 
 ---
@@ -56,16 +74,20 @@ separating signal from noise — first in brains, now in machines.
 ## 🔧 Engineering Work
 
 **On-device stationary detection for vehicle speed estimation**
-A 233-parameter MLP (27–8–1) running in real time on an ESP32 alongside CAN acquisition,
+&nbsp;·&nbsp; [`stationary-detection`](https://github.com/mhmmdbdrhmd/stationary-detection) ·
+[`mcu-model-bundle`](https://github.com/mhmmdbdrhmd/mcu-model-bundle)
+A 209-parameter MLP (24–8–1) running in real time on an ESP32 alongside CAN acquisition,
 producing a stop-signal that gates a downstream speed estimator. Causal multi-scale
-rolling-standard-deviation features across two 6-axis CAN IMUs and a PLC-derived hitch angle.
+rolling-standard-deviation features across two 6-axis CAN IMUs.
 **End-to-end feature construction plus forward pass in ≈4 ms.** Deployed via an SD-card model
 bundle — thresholds, window sizes, feature ordering and weights change with no firmware
 recompilation. Designed around minimising false positives; field false-positive time fraction
 reduced from ~5% to ~2% through embedded/host parity analysis that isolated a feature-mapping
-bug from model error.
+bug from model error. The public repository rebuilds the method on synthetic data calibrated
+against real recordings — and reports the two findings that calibration destroyed.
 
 **Steering angle from wheel encoders alone**
+&nbsp;·&nbsp; [`ekf-steering-angle`](https://github.com/mhmmdbdrhmd/ekf-steering-angle)
 Recovering drawbar steering angle online from two wheel encoders, with the angle sensor used
 strictly as ground truth — never as a filter input. The dominant error was integer tick
 quantisation amplified by the ratio formula, so **the filtering moved ahead of the ratio**
@@ -79,6 +101,8 @@ columns yields byte-identical output, and leave-one-recording-out confirms the a
 constants generalise.
 
 **Bosch Rexroth RC5-6/40 ECU commissioning**
+&nbsp;·&nbsp; [`can-logger-esp32`](https://github.com/mhmmdbdrhmd/can-logger-esp32) ·
+[`esp32-sd-file-manager`](https://github.com/mhmmdbdrhmd/esp32-sd-file-manager)
 Portable PLC test bench around a Rexroth RC5-6/40 mobile controller — supply, ignition and
 inhibit-pin wiring, CAN interfacing, full BODAS/HighTec build-and-flash validation. Quadrature
 ABS wheel-speed acquisition in both trusted and memory-protected untrusted partitions, plus
