@@ -19,18 +19,6 @@ separating signal from noise — first in brains, now in machines.
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/mhmmdbdrhmd/ekf-steering-angle"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/ekf-tracking.gif" width="400" alt="Extended Kalman filter recovering truth from noisy measurements"/></a>
-        <br/><sub><b>State estimation</b> — EKF, Joseph-form covariance, ±1σ band</sub>
-        <br/><sub><a href="https://github.com/mhmmdbdrhmd/ekf-steering-angle"><b>ekf-steering-angle</b> ↗</a></sub>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/mhmmdbdrhmd/can-logger-esp32"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/can-stream.gif" width="400" alt="CAN bus frames decoded live"/></a>
-        <br/><sub><b>CAN / CANopen</b> — acquisition and live decoding</sub>
-        <br/><sub><a href="https://github.com/mhmmdbdrhmd/can-logger-esp32"><b>can-logger-esp32</b> ↗</a></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
         <a href="https://github.com/mhmmdbdrhmd/stationary-detection"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/mlp-inference.gif" width="400" alt="209-parameter MLP running inference on an ESP32"/></a>
         <br/><sub><b>On-device AI</b> — 209 parameters, 24–8–1, ≈4 ms on an ESP32</sub>
         <br/><sub><a href="https://github.com/mhmmdbdrhmd/stationary-detection"><b>stationary-detection</b> ↗</a></sub>
@@ -43,30 +31,42 @@ separating signal from noise — first in brains, now in machines.
     </tr>
     <tr>
       <td align="center" width="50%">
+        <a href="https://github.com/mhmmdbdrhmd/ekf-steering-angle"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/ekf-tracking.gif" width="400" alt="Extended Kalman filter recovering truth from noisy measurements"/></a>
+        <br/><sub><b>State estimation</b> — EKF, Joseph-form covariance, ±1σ band</sub>
+        <br/><sub><a href="https://github.com/mhmmdbdrhmd/ekf-steering-angle"><b>ekf-steering-angle</b> ↗</a></sub>
+      </td>
+      <td align="center" width="50%">
         <a href="https://github.com/mhmmdbdrhmd/ekf-steering-angle"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/zupt.gif" width="400" alt="Zero-velocity update bounding the covariance while parked"/></a>
         <br/><sub><b>Zero-velocity update</b> — parked wheels emit no ticks, so the covariance inflates unopposed. Shown in isolation; a slew cap handles position drift separately</sub>
         <br/><sub><a href="https://github.com/mhmmdbdrhmd/ekf-steering-angle"><b>ekf-steering-angle</b> ↗</a></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/mhmmdbdrhmd/mcu-model-bundle"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/parity.gif" width="400" alt="Embedded and host paths diverging when a feature buffer is mis-mapped"/></a>
-        <br/><sub><b>Embedded/host parity</b> — replay the same bundle offline; a mis-mapped feature buffer shows up instantly</sub>
+        <a href="https://github.com/mhmmdbdrhmd/mcu-model-bundle"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/parity.gif" width="400" alt="Host and device probabilities diverging when a feature buffer is mis-mapped"/></a>
+        <br/><sub><b>Embedded/host parity</b> — same weights, same arithmetic, so a divergence can only be the feature path. This is the repository's <code>check_parity</code> harness, drawn</sub>
         <br/><sub><a href="https://github.com/mhmmdbdrhmd/mcu-model-bundle"><b>mcu-model-bundle</b> ↗</a></sub>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/mhmmdbdrhmd/esp32-sd-file-manager"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/sd-files.gif" width="400" alt="Browsing an ESP32's SD card in a browser, selecting three recordings and pulling them off over Wi-Fi"/></a>
+        <br/><sub><b>Getting the data off</b> — a logger fills its card in a field. Tick the recordings and they come back over Wi-Fi, or down the USB cable when there is no network. This is the firmware's own page, driven for real</sub>
+        <br/><sub><a href="https://github.com/mhmmdbdrhmd/esp32-sd-file-manager"><b>esp32-sd-file-manager</b> ↗</a></sub>
       </td>
     </tr>
     <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/mhmmdbdrhmd/can-logger-esp32"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/can-stream.gif" width="400" alt="CAN bus frames arriving and being decoded live"/></a>
+        <br/><sub><b>CAN / CANopen</b> — frames off the bus, each signal decoded from the bytes on its own row</sub>
+        <br/><sub><a href="https://github.com/mhmmdbdrhmd/can-logger-esp32"><b>can-logger-esp32</b> ↗</a></sub>
+      </td>
       <td align="center" width="50%">
         <a href="https://github.com/mhmmdbdrhmd/can-logger-esp32"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/dbc-decode.gif" width="400" alt="A 16-bit signal lifted out of a CAN frame at bit 24 and scaled into km/h"/></a>
         <br/><sub><b>DBC decoding</b> — a signal is a bit offset and a bit length, free to straddle byte boundaries. The number is decoded from the bytes above it</sub>
         <br/><sub><a href="https://github.com/mhmmdbdrhmd/can-logger-esp32"><b>can-logger-esp32</b> ↗</a></sub>
       </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/mhmmdbdrhmd/esp32-sd-file-manager"><img src="https://raw.githubusercontent.com/mhmmdbdrhmd/Data/main/gifs/sd-transfer.gif" width="400" alt="A file streamed off an SD card over USB serial, verified chunk by chunk with CRC-32"/></a>
-        <br/><sub><b>Getting data off the machine</b> — out of Wi-Fi range the log still has to come back, so the transfer verifies itself: CRC-32 folded chunk by chunk as the bytes leave the card</sub>
-        <br/><sub><a href="https://github.com/mhmmdbdrhmd/esp32-sd-file-manager"><b>esp32-sd-file-manager</b> ↗</a></sub>
-      </td>
     </tr>
   </table>
-  <sub><i>Every frame above is computed, not drawn — the EKF, the network, the gate and the checksum are real implementations. Each one links to the repository it came from.</i></sub>
+  <sub><i>Every frame above is computed, not drawn — the EKF, the network, the gate and the decoder are real implementations, and the file manager is the real page answering real clicks. Each one links to the repository it came from.</i></sub>
 </div>
 
 ---
