@@ -11,7 +11,9 @@ separating signal from noise — first in brains, now in machines.
 `ESP32` · `CAN / CANopen / J1939` · `Bosch Rexroth RC5-6/40 (BODAS)` · `ifm CR710S / CODESYS`
 · `C` · `Python` · `EKF` · `TensorFlow → MCU`
 
-🌐 **[biss.qzz.io](https://biss.qzz.io)** · 📧 **[contact@biss.qzz.io](mailto:contact@biss.qzz.io)**
+🌐 **[biss-engineering.com](https://biss-engineering.com)** · 📧 **[contact@biss-engineering.com](mailto:contact@biss-engineering.com)**
+
+**Open to contract work** — embedded systems, CAN / J1939 / ISOBUS, on-device AI. Write to me at the address above.
 
 ---
 
@@ -156,7 +158,7 @@ Multimodal fusion of EEG and fNIRS to separate healthy controls from staged Alzh
 
 <div align="center"><p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:contact@biss.qzz.io" style="text-decoration: none;" alt="Email">
+    <a href="mailto:contact@biss-engineering.com" style="text-decoration: none;" alt="Email">
         <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black%20-%20GMail.png" width="6%" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/mhmmdbdrhmd" style="text-decoration: none;" alt="GitHub">
@@ -169,7 +171,7 @@ Multimodal fusion of EEG and fNIRS to separate healthy controls from staged Alzh
         <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black%20-%20Twitter%20X.png" width="6%"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://biss.qzz.io" style="text-decoration: none;" alt="Website">
+  <a href="https://biss-engineering.com" style="text-decoration: none;" alt="Website">
         <img src="https://github.com/mhmmdbdrhmd/Data/blob/main/Icons/ICON%20_Black%20-%20Website.png" width="6%"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
